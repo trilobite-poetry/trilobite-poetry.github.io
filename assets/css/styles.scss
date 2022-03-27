@@ -4,3 +4,23 @@
 @import "header";
 @import "nav";
 @import "poetry";
+
+nav {
+  background-color: {{ site.data.theme.colors.background }};
+}
+
+header {
+  border: 2px solid {{ site.data.theme.colors.background }};
+}
+
+header img {
+  border-right: 2px solid {{ site.data.theme.colors.background }};
+}
+
+header h1 {
+  color: {{ site.data.theme.colors.background }};
+}
+
+nav a:hover {
+  color: {{ site.data.theme.colors.background }};
+}
