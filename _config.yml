@@ -1,0 +1,10 @@
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "poem"
+  - scope:
+      path: ""
+    values:
+      layout: "default"
