@@ -1,2 +1,1 @@
-# poems
-Prototyping Paul's poetry mag.
+# Trilobite

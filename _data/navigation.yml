@@ -1,6 +1,4 @@
 - name: Home
   link: /
-- name: About
-  link: /about.html
-- name: Poems
-  link: /poems.html
+- name: Past Issues
+  link: /past.html
