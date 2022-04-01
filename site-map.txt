@@ -1,0 +1,10 @@
+Homepage: Current Issue
+
+Past issues page: Header containing last issue name, followed by
+list of contributor names, with links to poems
+
+BTW: make it grey
+
+Simpler data file -- theme options
+
+Mobile theme

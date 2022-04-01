@@ -7,8 +7,10 @@
     <link rel="icon" href="/assets/images/tril.bmp">
   </head>
   <body>
-  <header>{% include header.html %}</header>
-  <aside>{% include navigation.html %}</aside>
+  {% include header.html %}
+  {% include navigation.html %}
+  <article>
     {{ content }}
+  </article>
   </body>
 </html>

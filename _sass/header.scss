@@ -1,0 +1,19 @@
+header {
+  display: flex;
+  margin: 0 15vw;
+  align-items: center;
+  justify-content: flex-start;
+  border: 2px solid black;
+}
+
+header img {
+  height: 25vh;
+  width: 25vh;
+}
+
+header h1 {
+  margin: 0 auto;
+  font-weight:normal;
+  font-family: monospace;
+  font-size: 3rem;
+}
