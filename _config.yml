@@ -1,10 +1,13 @@
 defaults:
   - scope:
       path: ""
-      type: "posts"
-    values:
-      layout: "poem"
-  - scope:
-      path: ""
     values:
       layout: "default"
+
+collections:
+  current:
+    output: true
+  past:
+    output: true
+    sort_by: issue
+collections_dir: issues
