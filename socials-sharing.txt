@@ -1,0 +1,3 @@
+[Twitter cards](https://developer.twitter.com/en/docs/twitter-for-websites/cards/overview/abouts-cards)
+
+[Open Graph protocol](https://ogp.me/)

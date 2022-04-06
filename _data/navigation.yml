@@ -1,4 +1,4 @@
 - name: Home
   link: /
-- name: Past Issues
-  link: /past.html
+# - name: Past Issues
+  # link: /past.html
