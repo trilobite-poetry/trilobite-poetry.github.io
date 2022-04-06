@@ -1,14 +1,9 @@
 body {
   background-image: url("/assets/images/background.png");
-  background-size: 53px 72px;
+  background-size: 35px 48px;
   background-repeat: repeat;
 }
 
 article {
-  background-color: #ededed;
-  height: 100%;
-}
-
-header {
-  background-color: #ededed;
+  min-height: 65vh;
 }

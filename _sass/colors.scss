@@ -6,22 +6,27 @@ a {
 
 header {
   border: 2px solid black;
+  background-color: gainsboro;
+}
+
+article {
+  background-color: gainsboro;
 }
 
 body {
-  background-color: #ededed;
+  background-color: gainsboro;
 }
 
 nav {
-  color: #ededed;
+  color: gainsboro;
   background-color: black;
 }
 
 nav a {
-  color: #ededed;
+  color: gainsboro;
 }
 
 nav a:hover {
-  background-color: #ededed;
+  background-color: gainsboro;
   color: black;
 }
