@@ -1,0 +1,11 @@
+@keyframes throb {
+  0% { color: black; }
+  50% { color: darkgrey; }
+  100% { color: black; }
+}
+
+header h1 {
+  animation-name: throb;
+  animation-duration: 30s;
+  animation-iteration-count: infinite;
+}
