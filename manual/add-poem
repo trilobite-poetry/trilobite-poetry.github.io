@@ -1,0 +1,46 @@
+---
+title: Adding a New Poem to the Current Issue
+---
+
+Three flavors of poem are currently supported, and two are under
+development.
+
+**Currently**:
+
+-   Lineated poems with any amount of in-line whitespace;
+-   Prose poetry
+
+**In Development**:
+
+-   Image-based poems
+-   PDF-based poems
+-   Poems with very long lines requiring a hanging indent
+
+## Lineated poems
+
+Lineated poems should be formatted in the following manner:
+
+```
+
+---
+title: "POEM TITLE HERE"
+contributor: "AUTHOR NAME HERE"
+---
+
+```                     <!-- Three backticks -->
+                        <!-- One linebreak -->
+So much depends
+upon
+
+a red wheel
+barrow
+
+glazed with rain
+water
+
+beside the white
+chickens
+                        <!-- One linebreak -->
+```                     <!-- Three backticks -->
+
+```
