@@ -2,7 +2,7 @@
 title: Adding a New Poem to the Current Issue
 ---
 
-Three flavors of poem are currently supported, and two are under
+Two flavors of poem are currently supported, and three are under
 development.
 
 **Currently**:
@@ -63,6 +63,8 @@ though it looks like prose.
 This is a new paragraph -- the same "rules" apply here.
 
 ```
+
+# Saving Poem Files
 
 New poems must be saved in the directory
 `Trilobite/issues/_current/`. They need to be saved as markdown
