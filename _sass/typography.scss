@@ -9,3 +9,14 @@ header h1 {
 nav {
   font-family: monospace;
 }
+
+.poem p {
+  white-space: pre-wrap;
+  padding: 0 0 0 2rem;
+  text-indent: -2rem;
+}
+
+.poem hr {
+  border: none;
+  margin: 1rem 0;
+}
