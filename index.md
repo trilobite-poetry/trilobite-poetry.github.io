@@ -3,7 +3,7 @@ title: Trilobite
 layout: default
 ---
 
-## Current Issue
+# Current Issue
 
 {% for item in site.current %}
 -   [{{ item.contributor }}: "{{ item.title }}."]({{ item.url }})
