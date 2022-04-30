@@ -1,7 +1,7 @@
 ---
 title: "four poems from *self-avoiding space-filling curve*"
 contributor: Peter Manson
-issue: 1
+issue: "People used to have cool names, like Kimball Flaccus"
 ---
 
 ## angina of micturition

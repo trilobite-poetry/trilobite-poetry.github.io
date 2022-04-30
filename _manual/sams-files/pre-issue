@@ -1,0 +1,9 @@
+---
+title: Assembling an Issue
+---
+
+The `_drafts` folder will not be available from the website, even
+though it is synchronized between our computers and the
+**Github** host. Anything placed there should be safe from the
+prying eyes of those who would wish to leak an upcoming issue.
+
