@@ -2,7 +2,6 @@
 title: Verde
 contributor: Karen Pava Randall
 issue: "People used to have cool names, like Kimball Flaccus"
-date: 3/12/2022
 ---
 
 I knew you when we lived in the undulating prairie amongst placid
