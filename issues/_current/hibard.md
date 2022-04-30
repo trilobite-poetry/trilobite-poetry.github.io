@@ -1,7 +1,7 @@
 ---
 title: "Four Translations"
 contributor: Tom Hibard
-issue: "People used to have cool names, like Kimball Flaccus"
+issue: "People used to have cool names like Kimball Flaccus"
 ---
 
 ## The Poem Interrupted 
