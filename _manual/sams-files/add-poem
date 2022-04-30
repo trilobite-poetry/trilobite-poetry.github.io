@@ -1,0 +1,86 @@
+---
+title: Adding a New Poem to the Current Issue
+---
+
+Two flavors of poem are currently supported, and two are under
+development.
+
+**Currently**:
+
+-   Lineated poems;
+-   Prose poetry
+
+**In Development**:
+
+-   Image-based poems
+-   PDF-based poems
+
+## Lineated poems
+
+Lineated poems should be formatted in the following manner:
+
+```
+
+---
+title: "POEM TITLE HERE"
+contributor: "AUTHOR NAME HERE"
+issue: 1
+layout: poem
+---
+
+So much depends
+                       <!--BLANK LINE INDICATES LINE BREAK-->
+upon
+
+---                    <!--THREE DASHES INDICATES NEW STANZA-->
+
+a red wheel
+
+barrow
+
+---
+
+glazed with rain
+
+water
+
+---
+
+beside the white
+
+chickens
+
+```
+
+## Prose poetry
+
+```
+
+---
+title: "POEM TITLE HERE"
+contributor: "AUTHOR NAME HERE"
+issue: 2
+layout: prose
+---
+
+This is a paragraph. Since it is poetry, anything goes, even
+though it looks like prose.
+
+This is a new paragraph -- the same "rules" apply here.
+
+```
+
+# Saving Poem Files
+
+New poems must be saved in the directory
+`Trilobite/issues/_current/`. They need to be saved as markdown
+files (with a `.md` file extension), rather than ordinary
+textfiles (`.txt` extension):
+
+![How to Save Poem Files](saving.jpg)
+
+Poems from previous issues should be transferred from the
+`_current` folder to `Trilobite/issues/_past/ISSUE` (*e.g.*,
+`Trilobite/issues/_past/2/splatter.md` for a poem from issue #2
+titled "splatter").
+
