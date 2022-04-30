@@ -4,9 +4,9 @@ contributor: Tom Hibard
 issue: "People used to have cool names, like Kimball Flaccus"
 ---
 
-## THE POEM INTERRUPTED 
+## The Poem Interrupted 
 
--- *LOUIS ARAGON*
+*Louis Aragon*
 
 Even all alone the bird at the fort
 
@@ -94,9 +94,9 @@ And the people that we know
 
 O my love O my wound
 
-## FIRST SNOW 
+## First Snow 
 
--- *ANTONIN ARTAUD*
+-- *Antonin Artaud*
 
 See so soft, so beautiful, so pale
 
@@ -124,9 +124,9 @@ And look the blue sky is melting...
 
 Sister, it is our love that snows in the branches.
 
-## TO ALL THE DOORS 
+## To All The Doors 
 
--- *PHILIPPE SOUPAULT*
+-- *Philippe Soupault*
 
 But it is heavy tonight
 
@@ -148,9 +148,9 @@ Or unknown
 
 Knocks on all my doors
 
-## THE AIR EMBALMED 
+## The Air Embalmed 
 
--- *LOUIS ARAGON*
+-- *Louis Aragon*
 
 The fruits made out of sand
 
