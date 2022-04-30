@@ -1,6 +1,6 @@
 ---
 title: "Four Translations"
-contributor: Tom Hibard
+contributor: Tom Hibbard
 issue: "People used to have cool names like Kimball Flaccus"
 ---
 
