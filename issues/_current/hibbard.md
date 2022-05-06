@@ -6,7 +6,7 @@ issue: "People used to have cool names like Kimball Flaccus"
 
 ## The Poem Interrupted 
 
-*Louis Aragon*
+-- *Louis Aragon*
 
 Even all alone the bird at the fort
 

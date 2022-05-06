@@ -1,39 +1,43 @@
-h1, p, code {
-  font-family: Arial, Helvetica, sans-serif;
-  margin: 0 0 1rem 0;
-}
-
-article h1:first-child {
-  margin: 1rem 0 1rem 0;
+/*  FONTS   */
+h1, h2, p, ul {
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 header h1 {
-  font-family: monospace;
+    font-family: monospace;
+}
+
+/*  MARGINS AND PADDING */
+article h1 {
+    margin: 1rem 0;
 }
 
 h2 {
-  font-weight: normal;
-  font-style: italic;
-  border-top: 1px solid grey;
-  font-family: Arial, Helvetica, sans-serif;
-  margin: 1rem 0;
-  padding: 1rem 0 1rem 1rem;
+    margin: 1rem 0;
+    padding: 1rem;
+    font-weight: normal;
+    font-style: italic;
+    border-top: 1px solid grey;
 }
 
 h2:first-child {
-  border-top: none;
+    border-top: none;
 }
 
-nav {
-  font-family: monospace;
+p {
+    margin: 0 0 1rem 0;
 }
 
+/*  THE GREAT MYSTERY: HOW
+    DO YOU TYPSET POETRY FOR
+    THE WEB?                    */
 .poem p {
-  padding: 0 0 0 2rem;
-  text-indent: -2rem;
+    margin: 0;
+    padding: 0 0 0 2rem;
+    text-indent: -2rem;
 }
 
 .poem hr {
-  border: none;
-  margin: 1rem 0;
+    border: none;
+    margin: 1rem 0;
 }
