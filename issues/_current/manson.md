@@ -56,7 +56,7 @@ the lord shat on the mooses and on the maglev too
 
 what ted kaczynski wrote about diaghilev is
 
-true of the angry inch which makes no flann an isle      mis
+true of the angry inch which makes no flann an isle&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mis
 
 -take not cliff for hank marvin and treacherous bramble
 
@@ -106,12 +106,12 @@ they were my own and i ate them it ended badly
 
 especially for the plums lying undigested
 
-in the stomach of a corpse      forensic evidence
+in the stomach of a corpse&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;forensic evidence
 
-for death of time      the lean etymologist cussin
+for death of time&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;the lean etymologist cussin
 
 for tussin confects an old english origin myth
 
-and i hate it still     *manna mildust ond wyrtgeornost*
+and i hate it still&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*manna mildust ond wyrtgeornost*
 
 the mildest of men and most geekish about his plants
