@@ -1,7 +1,7 @@
 ---
 title: This Is A Happy House
 contributor: Alice Ladrick
-issue: "People used to have cool names like Kimball Flaccus"
+issue: "people used to have cool names like Kimball Flaccus"
 ---
 
 ## 1.

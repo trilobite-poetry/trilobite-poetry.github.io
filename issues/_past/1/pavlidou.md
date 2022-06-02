@@ -1,7 +1,7 @@
 ---
 title: Flesh
 contributor: Giorgia Pavlidou
-issue: "People used to have cool names like Kimball Flaccus"
+issue: "people used to have cool names like Kimball Flaccus"
 ---
 
 Before all else my greetings to all poets, dead or alive.
