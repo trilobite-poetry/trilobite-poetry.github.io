@@ -6,10 +6,11 @@
     -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    {% include description.html %}
 
     {% include ogp.html %}
     {% include twitter.html %}
-    <title>{{ page.title | markdownify | strip_html }} &mdash; Trilobite</title>
+    <title>{{ page.title | markdownify | strip_html }}</title>
 
     <link rel="stylesheet" href="/assets/css/styles.css" media="screen and (min-width: 800px)">
     <link rel="stylesheet" href="/assets/css/mobile.css" media="screen and (max-width: 800px)">
