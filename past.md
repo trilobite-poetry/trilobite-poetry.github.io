@@ -9,6 +9,6 @@ title: Past Issues
 {% assign my_issue = item.issue %}
 {% endif %}
 
--   [{{ item.contributor }}: "{{ item.title }}."]({{ item.url }})
+-   [{{ item.contributor }}, {{ item.title }}.]({{ item.url }})
 
 {% endfor %}
