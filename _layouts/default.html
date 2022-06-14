@@ -9,7 +9,7 @@
 
     {% include ogp.html %}
     {% include twitter.html %}
-    <title>{{ page.title }}</title>
+    <title>{{ page.title | markdownify | strip_html }}</title>
 
     <link rel="stylesheet" href="/assets/css/styles.css" media="screen and (min-width: 800px)">
     <link rel="stylesheet" href="/assets/css/mobile.css" media="screen and (max-width: 800px)">
