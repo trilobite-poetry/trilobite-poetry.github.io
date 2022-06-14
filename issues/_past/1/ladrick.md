@@ -1,5 +1,5 @@
 ---
-title: This Is A Happy House
+title: '"This Is A Happy House"'
 contributor: Alice Ladrick
 issue: "people used to have cool names like Kimball Flaccus"
 ---

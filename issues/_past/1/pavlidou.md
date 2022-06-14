@@ -1,5 +1,5 @@
 ---
-title: Flesh
+title: '"Flesh"'
 contributor: Giorgia Pavlidou
 issue: "people used to have cool names like Kimball Flaccus"
 ---

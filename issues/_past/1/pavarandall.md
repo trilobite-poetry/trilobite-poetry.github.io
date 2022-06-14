@@ -1,5 +1,5 @@
 ---
-title: Verde
+title: '"Verde"'
 contributor: Karen Pava Randall
 issue: "people used to have cool names like Kimball Flaccus"
 ---

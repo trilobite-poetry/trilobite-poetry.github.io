@@ -1,5 +1,5 @@
 ---
-title: "four poems from *self-avoiding space-filling curve*"
+title: four poems from *self-avoiding space-filling curve*
 contributor: Peter Manson
 issue: "people used to have cool names like Kimball Flaccus"
 ---

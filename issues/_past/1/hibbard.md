@@ -1,5 +1,5 @@
 ---
-title: "Four Translations"
+title: four translations
 contributor: Tom Hibbard
 issue: "people used to have cool names like Kimball Flaccus"
 ---
