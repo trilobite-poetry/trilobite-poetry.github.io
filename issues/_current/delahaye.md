@@ -1,6 +1,6 @@
 ---
 title: from *Total Doing That*
-contributor: Nick Keiley
+contributor: Thomas Delahaye
 issue: productive looking
 custom_css: garamond
 ---
