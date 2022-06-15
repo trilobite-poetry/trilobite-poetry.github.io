@@ -14,8 +14,8 @@ custom_css: picturebook
 <p>brought suddenly to bear.</p>
 </div>
 </div>
-<img src="/assets/images/sketches/1.png">
-<img src="/assets/images/sketches/2.png">
+<img src="/assets/images/dudas-sketches/1.png">
+<img src="/assets/images/dudas-sketches/2.png">
 <div class="stanza">
 <div>
 <p>He tries to start his day off right:</p>
@@ -32,8 +32,8 @@ custom_css: picturebook
 <p>and too high off the ground.</p>
 </div>
 </div>
-<img src="/assets/images/sketches/3.png">
-<img src="/assets/images/sketches/4.png">
+<img src="/assets/images/dudas-sketches/3.png">
+<img src="/assets/images/dudas-sketches/4.png">
 <div class="stanza">
 <div>
 <p>He tries to read the paper,</p>
@@ -50,8 +50,8 @@ custom_css: picturebook
 <p>he just listens to the ring.</p>
 </div>
 </div>
-<img src="/assets/images/sketches/5.png">
-<img src="/assets/images/sketches/6.png">
+<img src="/assets/images/dudas-sketches/5.png">
+<img src="/assets/images/dudas-sketches/6.png">
 <div class="stanza">
 <div>
 <p>He tries to play a record</p>
@@ -68,8 +68,8 @@ custom_css: picturebook
 <p>one finds in feta crumbles.</p>
 </div>
 </div>
-<img src="/assets/images/sketches/7.png">
-<img src="/assets/images/sketches/8.png">
+<img src="/assets/images/dudas-sketches/7.png">
+<img src="/assets/images/dudas-sketches/8.png">
 <div class="stanza">
 <div>
 <p>He tries to love his little home,</p>
@@ -86,8 +86,8 @@ custom_css: picturebook
 <p>all starting to congeal.</p>
 </div>
 </div>
-<img src="/assets/images/sketches/9.png">
-<img src="/assets/images/sketches/10.png">
+<img src="/assets/images/dudas-sketches/9.png">
+<img src="/assets/images/dudas-sketches/10.png">
 <div class="stanza">
 <div>
 <p>He tries to take the edge off</p>
@@ -104,8 +104,8 @@ custom_css: picturebook
 <p>with his troubles in the end.</p>
 </div>
 </div>
-<img src="/assets/images/sketches/11.png">
-<img src="/assets/images/sketches/12.png">
+<img src="/assets/images/dudas-sketches/11.png">
+<img src="/assets/images/dudas-sketches/12.png">
 <div class="stanza">
 <div>
 <p>Lately, these are trying times</p>
