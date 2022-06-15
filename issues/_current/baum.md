@@ -1,6 +1,7 @@
 ---
 title: three pieces from *Index*
 contributor: Erica Baum
+issue: productive looking
 ---
 
 ## Cubicle Centrist 2022

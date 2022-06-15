@@ -1,6 +1,7 @@
 ---
 contributor: Nolan Bibb
 title: eight poems
+issue: productive looking
 ---
 
 <h2>1. Excuse me, spare channels sir?</h2>

@@ -2,6 +2,7 @@
 title: '"Spook School"'
 contributor: Nessa West
 custom_css: fleximage
+issue: productive looking
 ---
 
 <img class="desktop" src="/assets/images/west-dsk.png" alt="Spook School">
