@@ -1,5 +1,5 @@
 ---
-title: "from *bergsonian on a plate*"
+title: "two from *bergsonian on a plate*"
 contributor: Trevor Root
 issue: productive looking
 ---
