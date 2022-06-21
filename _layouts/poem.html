@@ -3,8 +3,6 @@ layout: default
 ---
 
 <h1>{{ page.title | smartify | markdownify }}</h1>
-    <p><em>{{ page.contributor }}</em></p>
+    <p class="contributor">{{ page.contributor }}</p>
 
-    <div class="poem">
 {{ content }}
-    </div>
