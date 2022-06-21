@@ -1,5 +1,5 @@
 ---
-title: "three from *tenderness*"
+title: "three from *TENDERNESS*"
 contributor: Sean Pierson
 issue: productive looking
 ---
