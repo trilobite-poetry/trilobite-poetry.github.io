@@ -42,11 +42,11 @@ May you swallow all the bitterness of this moment.
 
 Be the peacock we need. Transform and purge.
 
-```
+---
 
-*    *    *
+`*    *    *`
 
-```
+---
 
 Laughter is the music of the spheres — meh meh, I bore myself by trying
 

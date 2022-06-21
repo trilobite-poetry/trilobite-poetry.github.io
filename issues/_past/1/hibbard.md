@@ -6,7 +6,7 @@ issue: "people used to have cool names like Kimball Flaccus"
 
 ## The Poem Interrupted 
 
--- *Louis Aragon*
+<p class="contributor">&ndash; Louis Aragon</p>
 
 Even all alone the bird at the fort
 
@@ -96,7 +96,7 @@ O my love O my wound
 
 ## First Snow 
 
--- *Antonin Artaud*
+<p class="contributor">&ndash; Antonin Artaud</p>
 
 See so soft, so beautiful, so pale
 
@@ -126,7 +126,7 @@ Sister, it is our love that snows in the branches.
 
 ## To All The Doors 
 
--- *Philippe Soupault*
+<p class="contributor">&ndash; Philippe Soupault</p>
 
 But it is heavy tonight
 
@@ -150,7 +150,7 @@ Knocks on all my doors
 
 ## The Air Embalmed 
 
--- *Louis Aragon*
+<p class="contributor">&ndash; Louis Aragon</p>
 
 The fruits made out of sand
 

@@ -5,6 +5,7 @@ issue: productive looking
 ---
 
 <h2>1. Excuse me, spare channels sir?</h2>
+<div class="whitespace">
 <p>I just copped this penny. And I was like I begged my ass off for <em>this?!</em></p>
 <p>Oh shiny neat little Penny, you're gonna make my day</p>
 <p>                                         hell.</p>
@@ -40,7 +41,9 @@ issue: productive looking
 <p>Our first vacation too sunny <em>Los Angeles</em>, here weeeee come!</p>
 <p style="text-decoration:underline;">la     lalala lalalala    Boom!</p>
 <p>Maybe wearing a different hat this time</p>
+</div>
 <h2>2. Jungle Sluts</h2>
+<div class="whitespace">
 <p>Who who Ha Ha</p>
 <hr />
 <p>I was born with my foot inside my mouth</p>
@@ -81,7 +84,9 @@ issue: productive looking
 <p>            always the king</p>
 <hr />
 <p>The scene from the ribs of my mothers surf lens me 100 dollars to buy sea foam hot links</p>
+</div>
 <h2>3. Gangrene adrenaline</h2>
+<div class="whitespace">
 <p>Lollipop, Lollipop</p>
 <p>soothe the sores</p>
 <p>             South</p>
@@ -100,8 +105,10 @@ issue: productive looking
 <p>                I have become:</p>
 <p>A gangrene Lollipop on adrenaline</p>
 <p>        But is anyone really surprised?</p>
+</div>
 <h2>4. A Brand new Elvis<br />
 (Ain't never gonna die)</h2>
+<div class="whitespace">
 <p>Holly did not know who And what Henry "darling"</p>
 <hr />
 <p>masturbation is the key</p>
@@ -125,13 +132,15 @@ issue: productive looking
 <hr />
 <p>He certainly would lean on one fuckin' after in'n an after outin' he thought.</p>
 <p>And never be as sold as fuck again.</p>
-<p style="padding:0;text-indent:0;white-space:normal;">He knew Satan was a waste of time. He knew he didn't have the weakness or the strength or the magic, the courage, the passion or the interest, to learn...He knew he'd jus rather gonna get fucked up then be with the boys then be... With you, I reckon.  Her. Him. Self-help hating himself. You! As I hate fuck-hating you to hate me. Awh, Holy horseshit, I just can't figure it out. I gotta hang myself for it.</p>
+<p style="white-space:normal;">He knew Satan was a waste of time. He knew he didn't have the weakness or the strength or the magic, the courage, the passion or the interest, to learn...He knew he'd jus rather gonna get fucked up then be with the boys then be... With you, I reckon.  Her. Him. Self-help hating himself. You! As I hate fuck-hating you to hate me. Awh, Holy horseshit, I just can't figure it out. I gotta hang myself for it.</p>
 <p>He-Man he knowed how'd tuh haw haw this'er whoah woe is me that.  While other folks be sayin' do "this" do "that."</p>
 <p>Fer people that wanted to view heem er hear heem er evenin' touch heem.</p>
-<p style="padding:0;text-indent:0;white-space:normal;">Say'n: "don't try and live.  But never say die, or: take out'er dine innards from a rotten mule from my daddy who walked off and left us no home with out no horse with.</p>
+<p style="white-space:normal;">Say'n: "don't try and live.  But never say die, or: take out'er dine innards from a rotten mule from my daddy who walked off and left us no home with out no horse with.</p>
 <hr />
 <p>Well I'll tell you what: That ol' memory ain't never gonna die."</p>
+</div>
 <h2>5. (slow down) Mary Mother of God</h2>
+<div class="whitespace">
 <p>Jesus, my bearings are shot man.</p>
 <hr />
 <p>                 Shot down.</p>
@@ -142,7 +151,9 @@ issue: productive looking
 <p>              Slow, slow, slow...</p>
 <hr />
 <p>                                  slow...</p>
+</div>
 <h2>6. Mr. Larvae'</h2>
+<div class="whitespace">
 <p>Crucified!  Like Satan never was.</p>
 <hr />
 <p>      Or will be.</p>
@@ -165,7 +176,9 @@ issue: productive looking
 <p>                 Cherry-Coke</p>
 <p>                          or</p>
 <p>    (fade out) Coke-Zero</p>
+</div>
 <h2>7. Dog Boy</h2>
+<div class="whitespace">
 <p>Liner triangle don't</p>
 <p>           Shine, shine.</p>
 <p>With it while wondering, of whom may I eat tonight?</p>
@@ -177,7 +190,9 @@ issue: productive looking
 <p>          Now I must summon,</p>
 <p>       You say?</p>
 <p>Fuck it. Let's not and say we did, OK?</p>
+</div>
 <h2>8. The Loser at Life<br />The Loser at Death</h2>
+<div class="whitespace">
 <p>Form losing its formless.</p>
 <hr />
 <p>Loser at Life.</p>
@@ -199,3 +214,4 @@ issue: productive looking
 <p>I sing to you!</p>
 <hr />
 <p>               Goodnight.</p>
+</div>

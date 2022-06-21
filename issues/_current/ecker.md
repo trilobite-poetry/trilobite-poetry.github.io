@@ -1,153 +1,87 @@
-**\[from *bergsonian on a plate*\]**
+---
+title: '"Moving Along the Grass at an Uneven Tempo"'
+contributor: Dylan Ecker
+issue: productive looking
+---
 
-**year zero: faciality**
+<div class="prose">
 
-*i. tree: life, roots and crown*
+<p>I am taking the world’s loneliest jog when I happen upon the
+world’s loneliest house where I spend a lifetime trimming the
+world’s loneliest topiaries and collecting the world’s loneliest
+crab apples in the world’s loneliest cyan pail and then I slide
+down an ant hill and no longer believe in the end of days. </p>
 
-motion may be eliminated but its introduction nevertheless
+<p>Why is the dread of being a failure the same dread as the
+dread of someone seeing my nose hair in polite discussion and
+proceeding to point, or worse, but maybe better, pluck, and what
+if I gather everything that drifted to the ground and announce on
+live television I intend to put it all back but get overwhelmed
+and move to the side of a big, flat pond. </p>
 
-drives the belief that merely
+<p>I laze about in fancy sweaters. </p>
 
-recognizing the program of the unforeseen
+<p>I figure out the game of tic-tac-toe. </p>
 
-makes time useless again.
+<p>I form a depression in the bark of a mossy log. </p>
 
-put yourself at the interval of the interval. divide therefore
+<p>The front door is open wide one day. </p>
 
-your own science and isolate the same.
+<p>Someone is inside taking photos on a portable device. </p>
 
-how can actuality be produced?
+<p><em>This is where we first met</em>, they inform me. </p>
 
-the operative cytoplasm, the centrosome
+<p>I’m shocked. </p>
 
-attract too the broken and original forms.
+<p>I walk in like I own the place even though I’m only renting.
+</p>
 
-two fresh constructed lines and the least
+<p>We plan on sneaking around more random buildings to look at
+fire exit signs because we think we’re stuck in a parallel
+universe where all the fire exits exist as blue objects but on
+the way there a gorgeous breeze gets installed at ground level
+and confounds us so we divert to a different place and unshell
+each other’s honesty apparatus. </p>
 
-of these operations attract some sugar, some oil.
+<p>It was an idea to a build a birdbath with Jacuzzi jets. </p>
 
-being of matter, what is gained is reconstructed
+<p>We didn’t predict it would become a brand-new beach. </p>
 
-even in its organic and vital activity.
+<p>Presently, I’m shoveling sand out of the bed of a pink truck,
+thinking about chair lifts and choir lofts, searching for a step
+that will not disappear while on a staircase in an unfamiliar
+location embraced by an orange mist rising like an audience from
+the undergrowth. </p>
 
-unite and deny to an arrangement
+<p>The shadow of a puddle’s pattern on the surface of a
+separate puddle. </p>
 
-the irreversibility of your ignorance.
+<p>A generation of saltwater, hailstone, haircut generalists.
+</p>
 
-we only grow old. our loss is certain.
+<p>Not long after, a wood thrush is found with a Jacuzzi jet in
+its beak. </p>
 
-only the discontinuity of the living is the same.
+<p>The wood thrush lives and what happens next is it turns into a
+stylish thing for birds to have Jacuzzi jets in their beaks so
+gradually the Jacuzzi jets go missing. </p>
 
-only the embryo and all its programmed inevitabilities.
+<p>The world’s loneliest ocean dries up. </p>
 
-*ii. fish: richness, the unknown*
+<p>A company is at the bottom selling ferromagnetic self-care
+products. </p>
 
-excrescence. a bud endeavors
+<p>The back of their shampoo bottle says <em>Shower longer and
+you’re in power</em> but flip it over and there is someone
+larping out of the frame like a classic heist movie I enjoyed at
+home prior to my nose hair faux pas. </p>
 
-to continue the continuous
+<p>I climb onto the hardcopy balcony with the ability to grow
+bone-in winglets that bond through commensalism with a wide veil
+of oblong larvae ranging from files and patients to workaday
+houseboat platters and weedy rockeries. </p>
 
-and we feel like we live. there is no
+<p>I paint a prototype of moving along the grass at an uneven
+tempo. </p>
 
-dazzling prospect, only necessity.
-
-the going from atoms to something to
-
-nothing of calculation.
-
-touch destruction. our evolutionary phenomenon
-
-will not in any way be said
-
-to be progress. all these short intervals
-
-on which we fix our attention
-
-embrace in this same body of the universe.
-
-we form agreed on schemas of this, the entire world
-
-as the result of the mutually produced
-
-authority of experience by which
-
-the vital action, the continuous generation
-
-is falsely implied.
-
-**introduction: rhizome**
-
-*i. flowers: present, creativity*
-
-a curve so small it is part
-
-of a tangent, a point
-
-he will consider. that is to say
-
-a number, but only that.
-
-he is always reborn
-
-as if it were nothing more
-
-than inhalation, repetition.
-
-old elements repeat to foretell phenomena
-
-the explanations of which are easier in glass.
-
-that which imparts elements
-
-is that which is meant to say
-
-properly speaking, there is no impartial.
-
-all is viewed from end to end. all is construed
-
-as photographs, as the physiochemical endeavor
-
-to reduce phenomena. we can be
-
-certain of others, like those between
-
-two partitions who would create
-
-little organisms. how
-
-can they actually be produced?
-
-*ii. book: secret, unknown*
-
-the entire world is the result of mutual biology
-
-of the mathematics of the physics of the mathematics
-
-lost in the mass of some ancient geometry.
-
-reject our radical finalism. the doctrine
-
-of our teleology, of this world
-
-as outward appearance of excrescence.
-
-the buds endeavor to continue the continuous
-
-by which vital action the continuity
-
-of the generated is implied. if we were not to be
-
-of matter what would be gained? nothing
-
-would be past, would be present. we could
-
-imagine ourselves at no point, represented only
-
-by an immense system of simultaneity.
-
-motion could be eliminated, but this introduction
-
-is nevertheless in belief that if necessary
-
-we could turn back from atoms
-
-to nothing.
+</div>

@@ -1,7 +1,6 @@
 ---
 title: '"Spook School"'
 contributor: Nessa West
-custom_css: fleximage
 issue: productive looking
 ---
 

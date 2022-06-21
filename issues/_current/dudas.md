@@ -2,11 +2,10 @@
 title: from *Sketches of a Modern Square*
 contributor: Stephen Dudas
 issue: productive looking
-custom_css: picturebook
 ---
 
 <div id="book">
-<div class="stanza">
+<div class="pbookstanza tradwrap">
 <div>
 <p>Lately, these are trying times</p>
 <p>for gentle Mr. Square.</p>
@@ -16,7 +15,7 @@ custom_css: picturebook
 </div>
 <img src="/assets/images/dudas-sketches/1.png">
 <img src="/assets/images/dudas-sketches/2.png">
-<div class="stanza">
+<div class="pbookstanza tradwrap">
 <div>
 <p>He tries to start his day off right:</p>
 <p>a long, reflective shave.</p>
@@ -24,7 +23,7 @@ custom_css: picturebook
 <p>of a kind hirsute and grave.</p>
 </div>
 </div>
-<div class="stanza">
+<div class="pbookstanza tradwrap">
 <div>
 <p>He tries to go to different rooms,</p>
 <p>but all the doors are round,</p>
@@ -34,7 +33,7 @@ custom_css: picturebook
 </div>
 <img src="/assets/images/dudas-sketches/3.png">
 <img src="/assets/images/dudas-sketches/4.png">
-<div class="stanza">
+<div class="pbookstanza tradwrap">
 <div>
 <p>He tries to read the paper,</p>
 <p>but the paper’s reading him.</p>
@@ -42,7 +41,7 @@ custom_css: picturebook
 <p>an ad for getting slim.</p>
 </div>
 </div>
-<div class="stanza">
+<div class="pbookstanza tradwrap">
 <div>
 <p>He tries to phone his children</p>
 <p>(Brenda, Bill, and Bing).</p>
@@ -52,7 +51,7 @@ custom_css: picturebook
 </div>
 <img src="/assets/images/dudas-sketches/5.png">
 <img src="/assets/images/dudas-sketches/6.png">
-<div class="stanza">
+<div class="pbookstanza tradwrap">
 <div>
 <p>He tries to play a record</p>
 <p>that he’s never heard before.</p>
@@ -60,7 +59,7 @@ custom_css: picturebook
 <p>at some point and left for war.</p>
 </div>
 </div>
-<div class="stanza">
+<div class="pbookstanza tradwrap">
 <div>
 <p>He tries to learn to waltz for one,</p>
 <p>but how he slips and stumbles.</p>
@@ -70,7 +69,7 @@ custom_css: picturebook
 </div>
 <img src="/assets/images/dudas-sketches/7.png">
 <img src="/assets/images/dudas-sketches/8.png">
-<div class="stanza">
+<div class="pbookstanza tradwrap">
 <div>
 <p>He tries to love his little home,</p>
 <p>his little yard, and lane</p>
@@ -78,7 +77,7 @@ custom_css: picturebook
 <p>in the passing acid rain.</p>
 </div>
 </div>
-<div class="stanza">
+<div class="pbookstanza tradwrap">
 <div>
 <p>He tries to take a walk outside.</p>
 <p>He tries to eat a meal.</p>
@@ -88,7 +87,7 @@ custom_css: picturebook
 </div>
 <img src="/assets/images/dudas-sketches/9.png">
 <img src="/assets/images/dudas-sketches/10.png">
-<div class="stanza">
+<div class="pbookstanza tradwrap">
 <div>
 <p>He tries to take the edge off</p>
 <p>with a pint down at the pub.</p>
@@ -96,7 +95,7 @@ custom_css: picturebook
 <p>through a grimace, “here’s the rub.”</p>
 </div>
 </div>
-<div class="stanza">
+<div class="pbookstanza tradwrap">
 <div>
 <p>He tries to call on Trilobite,</p>
 <p>his one remaining friend,</p>
@@ -106,7 +105,7 @@ custom_css: picturebook
 </div>
 <img src="/assets/images/dudas-sketches/11.png">
 <img src="/assets/images/dudas-sketches/12.png">
-<div class="stanza">
+<div class="pbookstanza tradwrap">
 <div>
 <p>Lately, these are trying times</p>
 <p>for gentle Mr. Square.</p>

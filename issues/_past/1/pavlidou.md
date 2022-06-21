@@ -4,75 +4,79 @@ contributor: Giorgia Pavlidou
 issue: "people used to have cool names like Kimball Flaccus"
 ---
 
-Before all else my greetings to all poets, dead or alive.
+<div class="tradwrap">
 
----
+<p>Before all else my greetings to all poets, dead or alive.</p>
 
-My dead (standing firmly behind me) perpetually sing my name:
+<hr />
 
----
+<p>My dead (standing firmly behind me) perpetually sing my
+name:</p>
 
-*in ortu sanguinis per peregrinationem casus ade elementa
-surceperunt gaudia in te*.
+<hr />
 
----
+<p><em>in ortu sanguinis per peregrinationem casus ade elementa
+surceperunt gaudia in te</em>.</p>
 
-It’s the living that can’t stop haunting me. They seem deader
-than the dead. The dead feed me.
+<hr />
 
----
+<p>It’s the living that can’t stop haunting me. They seem deader
+than the dead. The dead feed me.</p>
 
-Do you think this has grown as some sort of natural psychic
-mutation of the age?
+<hr />
 
----
+<p>Do you think this has grown as some sort of natural psychic
+mutation of the age?</p>
 
-Perhaps it has something to do with being in the mountains, or
-the wine of my own voice.
+<hr />
 
----
+<p>Perhaps it has something to do with being in the mountains, or
+the wine of my own voice.</p>
 
-I belong to Shiva.
+<hr />
 
----
+<p>I belong to Shiva.</p>
 
-I looked inside my body for my soul. I only found the
-blue-throated one.
+<hr />
 
----
+<p>I looked inside my body for my soul. I only found the
+blue-throated one.</p>
 
-There was no soul.
+<hr />
 
----
+<p>There was no soul.</p>
 
-A slave of extremes, I'm both dead and alive: I have no need to
+<hr />
 
-extract the stone of madness.
+<p>A slave of extremes, I'm both dead and alive: I have no need to</p>
 
----
+<p>extract the stone of madness.</p>
 
-One can't be crazy enough. I'm both Eurydice and Orpheus. I'm
-perpetually giving birth. My 
+<hr />
 
-body is *schrecklich*. In fact "the" body is *schrecklich*.
+<p>One can't be crazy enough. I'm both Eurydice and Orpheus. I'm
+perpetually giving birth. My </p>
 
----
+<p>body is <em>schrecklich</em>. In fact "the" body is
+<em>schrecklich</em>.</p>
 
-All bodies are *schrecklich*.
+<hr />
 
----
+<p>All bodies are <em>schrecklich</em>.</p>
 
-Thinking about this body something curiously effervescent where
+<hr />
 
-good and evil reunite, absorbs me. I'm a microbe dwelling on a
-microbe orbiting a microbe.
+<p>Thinking about this body something curiously effervescent where</p>
 
----
+<p>good and evil reunite, absorbs me. I'm a microbe dwelling on a
+microbe orbiting a microbe.</p>
 
-Language is the final frontier.
+<hr />
 
----
+<p>Language is the final frontier.</p>
 
-Yet like birds in need of a branch to land on, words need our
-flesh
+<hr />
+
+<p>Yet like birds in need of a branch to land on, words need our
+flesh</p>
 

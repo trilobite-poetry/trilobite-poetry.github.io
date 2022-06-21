@@ -2,26 +2,32 @@
 title: three poems
 contributor: Tamas Panitz
 issue: productive looking
-layout: prose
 ---
 
 ## Read to Kill
 
-Based on contraband, based on stealing fire, based on the thrill
+<div class="prose">
+
+<p>Based on contraband, based on stealing fire, based on the thrill
 of nothingness I could consider paying taxes –– if reading is all
 you want and maybe a little tidying up. But as it is each night a
 new piece of shit falls from the hole in the sky. The vast arms
 that encircle us with their discontinuities remain unable to
-reach me aside from the occasional caress.
+reach me aside from the occasional caress.</p>
 
-Fragments of fragments, one must recreate oneself in the image of
+<p>Fragments of fragments, one must recreate oneself in the image of
 conscious activity. When I leave this town, I'm stealing your
 bike-rack and putting my broken one through your windshield. It's
-like I told the cops, when I'm reading don't fucking talk to me.
+like I told the cops, when I'm reading don't fucking talk to
+me.</p>
+
+</div>
 
 ## Against the Outdoors
 
-I deny utterly the reading, writing, and the comprehension of
+<div class="prose">
+
+<p>I deny utterly the reading, writing, and the comprehension of
 poetry outside. Poetry has nothing to do with the outside. As
 soon as you go outside you are in the Western Tradition. The
 Western Box. Any supposedly fresh take or development of that
@@ -36,11 +42,14 @@ that I am, have been, or will be –– I will be certain to have
 first assumed the spiritual grandeur of that primordial being who
 in the Vedas is named Ka, or "Who", and from whom all creation is
 at various times given birth, to the surprise and resignation of
-all parties.
+all parties.</p>
+
+</div>
 
 ## James Dean as Amelia Earheart
 
-<div class="poem">
+<div class="tradwrap">
+
 <p>No one can pretend to be who they are</p>
 <p>for even the shortest amount of time.</p>
 <p>It unfolds an extreme verity</p>
@@ -71,7 +80,7 @@ all parties.
 <hr />
 <p>the better to impress longshoremen,</p>
 <p>with intense ease that seasons the grass.</p>
-<p>I'm having a brain attack just trying to reach you ––</p>
+<p>I'm having a brain attack just trying to reach you&mdash;</p>
 <hr />
 <p>a fulfillment unheard of around here is absolutely turning heads,</p>
 <p>and not necessarily in a good way, either.</p>

@@ -2,9 +2,9 @@
 title: five from *Total Doing That*
 contributor: Thomas Delahaye
 issue: productive looking
-custom_css: garamond
 ---
 
+<div class="whitespace garamond">
 <p>Can only be brought forth fatally.</p>
 <p>  Even walking around is divvy,</p>
 <p>    cool erstwhile harm.</p>
@@ -18,6 +18,8 @@ custom_css: garamond
 <p>  in the manner of taut sizers,</p>
 <p> what few limits these words are</p>
 <p>      last exactly this towel.</p>
+</div>
+<div class="whitespace garamond">
 <p style="margin-top:1rem;padding-top:1rem;border-top:1px solid grey;">Why does it end up a hoist</p>
 <p> instead the basic assumption it'd not</p>
 <p>  be left for dead <em>with excellence</em></p>
@@ -35,6 +37,8 @@ custom_css: garamond
 <p>    into practical dagnab.</p>
 <p> Or clockwork lacked involvement</p>
 <p>     plies of the head.</p>
+</div>
+<div class="whitespace garamond">
 <p style="margin-top:1rem;padding-top:1rem;border-top:1px solid grey;">Tries I fledge leave my site,</p>
 <p>ever to exert their precise not</p>
 <p>being my attempted hand again.</p>
@@ -57,6 +61,8 @@ custom_css: garamond
 <hr />
 <p>Mine's the raster dream</p>
 <p>  of gaunt stagecoaches.</p>
+</div>
+<div class="whitespace garamond">
 <p style="margin-top:1rem;padding-top:1rem;border-top:1px solid grey;"> I can't hold a ticket adroit</p>
 <p>to relieve the granite, say to peak</p>
 <p> instead on the wire gurney,</p>
@@ -76,6 +82,8 @@ custom_css: garamond
 <p> Taunts of pasture chronic</p>
 <p>must exceed my instructing</p>
 <p>    the granite urine.</p>
+</div>
+<div class="whitespace garamond">
 <p style="margin-top:1rem;padding-top:1rem;border-top:1px solid grey;">Maimed with mannered commits,</p>
 <p> how not hanging onto the irrelevant</p>
 <p>rental stone that I can't sleeve into</p>
@@ -103,3 +111,4 @@ custom_css: garamond
 <p>And if not explice of mattering</p>
 <p>     to its hot possession,</p>
 <p>  incising the porked custody.</p>
+</div>

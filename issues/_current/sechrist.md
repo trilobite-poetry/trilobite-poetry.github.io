@@ -1,10 +1,10 @@
 ---
-title: Pelagy
+title: '"Pelagy"'
 contributor: Joey Sechrist
 issue: productive looking
-layout: prose
 ---
 
+<div class="prose">
 <p style="text-align:right;">Pressed eye to top water glow
 Current rubs Will starve Pressed only sides heave and mouth tests
 for floating luck unlikely decapod debris Strain myomeres to
@@ -64,3 +64,4 @@ has been As it shall be Current rubs current rubs</p>
 
 <p style="text-align:right;">I can smell ourself Is
 unsuspiciously fishy</p>
+</div>

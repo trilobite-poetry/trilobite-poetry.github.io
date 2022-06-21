@@ -6,212 +6,222 @@ issue: productive looking
 
 ## year zero: faciality
 
-*i. tree: life, roots and crown*
+<div class="tradwrap">
 
----
+<p><em>i. tree: life, roots and crown</em> </p>
 
-motion may be eliminated but its introduction nevertheless
+<hr />
 
-drives the belief that merely
+<p>motion may be eliminated but its introduction nevertheless
+</p>
 
-recognizing the program of the unforeseen
+<p>drives the belief that merely </p>
 
-makes time useless again.
+<p>recognizing the program of the unforeseen </p>
 
----
+<p>makes time useless again. </p>
 
-put yourself at the interval of the interval. divide therefore
+<hr />
 
-your own science and isolate the same.
+<p>put yourself at the interval of the interval. divide therefore
+</p>
 
----
+<p>your own science and isolate the same. </p>
 
-how can actuality be produced?
+<hr />
 
----
+<p>how can actuality be produced? </p>
 
-the operative cytoplasm, the centrosome
+<hr />
 
-attract too the broken and original forms.
+<p>the operative cytoplasm, the centrosome </p>
 
----
+<p>attract too the broken and original forms. </p>
 
-two fresh constructed lines and the least
+<hr />
 
-of these operations attract some sugar, some oil.
+<p>two fresh constructed lines and the least </p>
 
----
+<p>of these operations attract some sugar, some oil. </p>
 
-being of matter, what is gained is reconstructed
+<hr />
 
-even in its organic and vital activity.
+<p>being of matter, what is gained is reconstructed </p>
 
----
+<p>even in its organic and vital activity. </p>
 
-unite and deny to an arrangement
+<hr />
 
-the irreversibility of your ignorance.
+<p>unite and deny to an arrangement </p>
 
----
+<p>the irreversibility of your ignorance. </p>
 
-we only grow old. our loss is certain.
+<hr />
 
----
+<p>we only grow old. our loss is certain. </p>
 
-only the discontinuity of the living is the same.
+<hr />
 
-only the embryo and all its programmed inevitabilities.
+<p>only the discontinuity of the living is the same. </p>
 
----
+<p>only the embryo and all its programmed inevitabilities. </p>
 
-*ii. fish: richness, the unknown*
+<hr />
 
----
+<p><em>ii. fish: richness, the unknown</em> </p>
 
-excrescence. a bud endeavors
+<hr />
 
-to continue the continuous
+<p>excrescence. a bud endeavors </p>
 
-and we feel like we live. there is no
+<p>to continue the continuous </p>
 
-dazzling prospect, only necessity.
+<p>and we feel like we live. there is no </p>
 
----
+<p>dazzling prospect, only necessity. </p>
 
-the going from atoms to something to
+<hr />
 
-nothing of calculation.
+<p>the going from atoms to something to </p>
 
----
+<p>nothing of calculation. </p>
 
-touch destruction. our evolutionary phenomenon
+<hr />
 
-will not in any way be said
+<p>touch destruction. our evolutionary phenomenon </p>
 
-to be progress. all these short intervals
+<p>will not in any way be said </p>
 
----
+<p>to be progress. all these short intervals </p>
 
-on which we fix our attention
+<hr />
 
-embrace in this same body of the universe.
+<p>on which we fix our attention </p>
 
----
+<p>embrace in this same body of the universe. </p>
 
-we form agreed on schemas of this, the entire world
+<hr />
 
-as the result of the mutually produced
+<p>we form agreed on schemas of this, the entire world </p>
 
-authority of experience by which
+<p>as the result of the mutually produced </p>
 
-the vital action, the continuous generation
+<p>authority of experience by which </p>
 
----
+<p>the vital action, the continuous generation </p>
 
-is falsely implied.
+<hr />
+
+<p>is falsely implied. </p>
+
+</div>
 
 ## introduction: rhizome
 
-*i. flowers: present, creativity*
+<div class="tradwrap">
 
----
+<p><em>i. flowers: present, creativity</em> </p>
 
-a curve so small it is part
+<hr />
 
-of a tangent, a point
+<p>a curve so small it is part </p>
 
-he will consider. that is to say
+<p>of a tangent, a point </p>
 
----
+<p>he will consider. that is to say </p>
 
-a number, but only that.
+<hr />
 
-he is always reborn
+<p>a number, but only that. </p>
 
-as if it were nothing more
+<p>he is always reborn </p>
 
-than inhalation, repetition.
+<p>as if it were nothing more </p>
 
----
+<p>than inhalation, repetition. </p>
 
-old elements repeat to foretell phenomena
+<hr />
 
-the explanations of which are easier in glass.
+<p>old elements repeat to foretell phenomena </p>
 
----
+<p>the explanations of which are easier in glass. </p>
 
-that which imparts elements
+<hr />
 
-is that which is meant to say
+<p>that which imparts elements </p>
 
-properly speaking, there is no impartial.
+<p>is that which is meant to say </p>
 
----
+<p>properly speaking, there is no impartial. </p>
 
-all is viewed from end to end. all is construed
+<hr />
 
-as photographs, as the physiochemical endeavor
+<p>all is viewed from end to end. all is construed </p>
 
-to reduce phenomena. we can be
+<p>as photographs, as the physiochemical endeavor </p>
 
----
+<p>to reduce phenomena. we can be </p>
 
-certain of others, like those between
+<hr />
 
-two partitions who would create
+<p>certain of others, like those between </p>
 
----
+<p>two partitions who would create </p>
 
-little organisms. how
+<hr />
 
-can they actually be produced?
+<p>little organisms. how </p>
 
----
+<p>can they actually be produced? </p>
 
-*ii. book: secret, unknown*
+<hr />
 
----
+<p><em>ii. book: secret, unknown</em> </p>
 
-the entire world is the result of mutual biology
+<hr />
 
-of the mathematics of the physics of the mathematics
+<p>the entire world is the result of mutual biology </p>
 
-lost in the mass of some ancient geometry.
+<p>of the mathematics of the physics of the mathematics </p>
 
----
+<p>lost in the mass of some ancient geometry. </p>
 
-reject our radical finalism. the doctrine
+<hr />
 
-of our teleology, of this world
+<p>reject our radical finalism. the doctrine </p>
 
-as outward appearance of excrescence.
+<p>of our teleology, of this world </p>
 
----
+<p>as outward appearance of excrescence. </p>
 
-the buds endeavor to continue the continuous
+<hr />
 
-by which vital action the continuity
+<p>the buds endeavor to continue the continuous </p>
 
-of the generated is implied. if we were not to be
+<p>by which vital action the continuity </p>
 
----
+<p>of the generated is implied. if we were not to be </p>
 
-of matter what would be gained? nothing
+<hr />
 
-would be past, would be present. we could
+<p>of matter what would be gained? nothing </p>
 
-imagine ourselves at no point, represented only
+<p>would be past, would be present. we could </p>
 
----
+<p>imagine ourselves at no point, represented only </p>
 
-by an immense system of simultaneity.
+<hr />
 
-motion could be eliminated, but this introduction
+<p>by an immense system of simultaneity. </p>
 
-is nevertheless in belief that if necessary
+<p>motion could be eliminated, but this introduction </p>
 
----
+<p>is nevertheless in belief that if necessary </p>
 
-we could turn back from atoms
+<hr />
 
-to nothing.
+<p>we could turn back from atoms </p>
+
+<p>to nothing.</p>
+
+</div>
