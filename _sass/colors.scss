@@ -1,36 +1,33 @@
-/*  LINKS   */
+/* COLORS */
+
 a {
-  color: black;
+    color: black;
 }
 
-/*  HEADER  */
 header {
-  border-top: 2px solid black;
-  border-bottom: 2px solid black;
-  background-color: gainsboro;
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
+    background-color: gainsboro;
 }
 
 nav {
-  color: gainsboro;
-  background-color: black;
+    color: gainsboro;
+    background-color: black;
 }
 
 nav a {
-  color: gainsboro;
+    color: gainsboro;
 }
 
 nav a:hover {
-  background-color: gainsboro;
-  color: black;
+    background-color: gainsboro;
+    color: black;
 }
 
-/*  BODY    */
-
 article {
-  background-color: gainsboro;
+    background-color: gainsboro;
 }
 
 body {
-  background-color: gainsboro;
+    background-color: gainsboro;
 }
-
