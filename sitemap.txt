@@ -3,7 +3,14 @@ https://trilobite.bond/current/bibb.html
 https://trilobite.bond/current/delahaye.html
 https://trilobite.bond/current/donovan.html
 https://trilobite.bond/current/dudas.html
+https://trilobite.bond/current/ecker.html
+https://trilobite.bond/current/hall.html
 https://trilobite.bond/current/panitz.html
+https://trilobite.bond/current/pierson.html
+https://trilobite.bond/current/pritchard.html
+https://trilobite.bond/current/root.html
+https://trilobite.bond/current/sechrist.html
+https://trilobite.bond/current/west.html
 https://trilobite.bond/index.html
 https://trilobite.bond/past/1/boston.html
 https://trilobite.bond/past/1/cheek.html
