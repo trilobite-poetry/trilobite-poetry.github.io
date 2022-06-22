@@ -2,9 +2,7 @@
 layout: default
 ---
 
-<h1>{{ page.title | markdownify }}</h1>
-    <p><em>{{ page.contributor }}</em></p>
+<h1>{{ page.title | smartify | markdownify }}</h1>
+    <p class="contributor">{{ page.contributor }}</p>
 
-    <div class="poem">
 {{ content }}
-    </div>

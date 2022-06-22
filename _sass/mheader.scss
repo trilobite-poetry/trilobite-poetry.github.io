@@ -1,18 +1,21 @@
 header {
-  background-image: url("/assets/images/tril.bmp");
-  background-position: center;
+    background-image: url("/assets/images/tril.bmp");
+    background-position: center;
 }
 
 header h1 {
-  text-align: center;
-  background-color: rgba(220, 220, 220, 0.8);
-  margin: 0;
-  padding: 0.67em 0;
-  font-size: 2.5em;
+    text-align: center;
+    background-color: rgba(220, 220, 220, 0.8);
+    margin: 0;
+    padding: 0.67em 0;
+    font-size: 2.5em;
+}
+
+header img {
+    display: none;
 }
 
 nav p {
-  text-align: center;
-  margin-top:0;
-  padding-top:0;
+    margin-top:0;
+    padding-top:0;
 }

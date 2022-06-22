@@ -22,3 +22,6 @@ defaults:
     values:
       layout: "default"
 
+exclude:
+  - secret/
+  - sitemap-gen.fish

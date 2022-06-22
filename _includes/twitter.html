@@ -1,4 +1,5 @@
-<meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="{{ page.title }}">
-    <meta name="twitter:image" content="/assets/images/ogp.jpg">
-    {% if page.contributor %}<meta name="twitter:description" content="A poem by {{ page.contributor }}">{% endif %}
+<meta name="twitter:card" content="summary">
+    <meta name="twitter:title" content="{{ page.title | smartify }}">
+    <meta name="twitter:image" content="https://trilobite.bond/assets/images/twit.jpg"></meta>
+    <meta name="twitter:image:alt" content="A grainy photo of a trilobite.">
+    {% if page.contributor %}<meta name="twitter:description" content="work by {{ page.contributor }}">{% endif %}

@@ -1,0 +1,9 @@
+.gridlayout {
+    display: grid;
+    grid-template-columns: 4rem 4rem 4rem 4rem auto;
+}
+
+.gridlayout hr {
+    grid-column: 1 / 6;
+    margin: 1rem 0 0 0;
+}

@@ -1,20 +1,21 @@
-/*  HEADER DISPLAY  */
+/* HEADER FOR DESKTOP */
+
 header {
-  display: flex;
-  margin: 0 15vw;
-  align-items: center;
-  justify-content: flex-start;
+    display: flex;
+    margin: 0 15vw;
+    align-items: center;
+    justify-content: flex-start;
 }
 
 header img {
-  height: 20vh;
-  width: 20vh;
-  border-right: 2px solid black;
-  border-left: 2px solid black;
+    height: 12vw;
+    width: 12vw;
+    border-right: 2px solid black;
+    border-left: 2px solid black;
 }
 
 header h1 {
-  margin: 0 auto;
-  font-weight:normal;
-  font-size: 3rem;
+    margin: 0 auto;
+    font-weight:normal;
+    font-size: 3rem;
 }
