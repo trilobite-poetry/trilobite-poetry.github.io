@@ -4,14 +4,14 @@ contributor: Erica Baum
 issue: productive looking
 ---
 
-## Cubicle Cubist 2022
-
 ![Cubicle Centrist 2022](/assets/images/baum-index/CublicleCubist.jpg)
 
-## Hullabaloo 2022
+<p style="text-align: right;margin-bottom:1rem;">Cubicle Cubist 2022</p>
 
 ![Hullabaloo 2022](/assets/images/baum-index/Hullabaloo.jpg)
 
-## Meditation 2022
+<p style="text-align: right;margin-bottom:1rem;">Hullabaloo 2022</p>
 
 ![Meditation 2022](/assets/images/baum-index/Meditation.jpg)
+
+<p style="text-align: right;margin-bottom:1rem;">Meditation 2022</p>
