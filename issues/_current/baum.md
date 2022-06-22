@@ -4,7 +4,7 @@ contributor: Erica Baum
 issue: productive looking
 ---
 
-## Cubicle Centrist 2022
+## Cubicle Cubist 2022
 
 ![Cubicle Centrist 2022](/assets/images/baum-index/CublicleCubist.jpg)
 
