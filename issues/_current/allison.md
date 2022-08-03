@@ -286,7 +286,7 @@ to introduce myself to you
 
 as your brother all over again.
 
-![](/assets/images/allison-001.png){: .mid-img}
+![](/assets/images/allison-002.png){: .mid-img}
 
 ## CHUCK
 
