@@ -3,7 +3,7 @@ title: Trilobite
 layout: default
 ---
 
-# The productive looking issue
+# The pentagonal nexus issue
 
 {% for item in site.current %}
 -   [{{ item.contributor }}, {{ item.title }}]({{ item.url }})
