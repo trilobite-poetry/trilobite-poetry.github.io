@@ -1,7 +1,7 @@
 ---
 title: '"the gospel according to matthew"'
 contributor: Bianca Messinger
-issue: pentagonal nexus
+issue: cross channel quadrophenia
 ---
 
 <p style="text-indent:2rem;margin-bottom:1rem;"><em>for

@@ -1,7 +1,7 @@
 ---
 title: '"Alcoholism Vandalism"'
 contributor: Charles J March III
-issue: pentagonal nexus
+issue: cross channel quadrophenia
 ---
 
 ## Insomniac Crack

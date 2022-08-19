@@ -1,7 +1,7 @@
 ---
 title: four poems, two images
 contributor: Shane Allison
-issue: pentagonal nexus
+issue: cross channel quadrophenia
 ---
 
 ## dont bother me

@@ -1,7 +1,7 @@
 ---
 title: three poems
 contributor: Fred Spoliar
-issue: pentagonal nexus
+issue: cross channel quadrophenia
 ---
 
 sun outguns moon
