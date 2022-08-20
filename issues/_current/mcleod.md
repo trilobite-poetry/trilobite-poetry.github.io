@@ -23,7 +23,7 @@ the author, which is where the problems begin.
 See: celebrity novels.
 </p>
 <p style="margin-bottom:1rem;">
-Not the glossed-out beach litter biographies (*auto*, being here, a
+Not the glossed-out beach litter biographies (<em>auto</em>, being here, a
 fiction) coughed out by broken-down ghost writers who hate their
 subjects almost as much as they hate themselves, but the earnest cris de
 cœur of beautiful people who can't imagine anything worse than living in
@@ -44,8 +44,8 @@ resurrect the author as the medium.
 <p style="margin-bottom:1rem;">
 With apologies to Ethan Hawke, the Platonic ideal of this type of
 celebrity, from whose ribs tiny Chalamets were planted and who may well
-be (as the dust-jacket of his most recent novel, *A Bright Ray of
-Darkness* declares) 'one of the most acclaimed artists of his
+be (as the dust-jacket of his most recent novel, <em>A Bright Ray of
+Darkness</em> declares) 'one of the most acclaimed artists of his
 generation', this is not a review---it will not engage with the merits
 and drawbacks of his prose because they had nothing to do with its
 arrival in the zeitgeist.
@@ -76,7 +76,7 @@ is anathema to both creative expression and accountability.
 <p style="margin-bottom:1rem;">
 On a small scale, this sycophancy might manifest a John Krasinski, so
 drunk off his hungry friends' approval that he genuinely believed a show
-focused exclusively on *Good News* during a time of abject global
+focused exclusively on <em>Good News</em> during a time of abject global
 suffering was either original or necessary.
 </p>
 <p style="margin-bottom:1rem;">
