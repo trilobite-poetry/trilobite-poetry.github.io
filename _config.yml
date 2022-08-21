@@ -25,3 +25,4 @@ defaults:
 exclude:
   - secret/
   - sitemap-gen.fish
+  - attachments/
