@@ -15,7 +15,16 @@ header img {
 }
 
 header h1 {
-    margin: 0 auto;
     font-weight:normal;
     font-size: 3rem;
+    text-align: center;
+}
+
+header div {
+    margin: 0 auto;
+}
+
+header p {
+    text-align: center;
+    font-size: .75rem;
 }
