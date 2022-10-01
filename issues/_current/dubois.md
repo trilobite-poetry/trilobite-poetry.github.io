@@ -1,12 +1,10 @@
 ---
-title: 4 fragments
+title: '4 fragments and "Avalon Street"'
 contributor: Kat Dubois
 ---
 
-<div style="max-width:700px;">
-<h2>Four Fragments</h2>
-<p style="padding-left:2rem;"><strong>❦</strong></p>
-<hr>
+<div style="max-width:600px;">
+<h2>❦</h2>
 <p>I’m thinking <text style="background-color:#D9EAD3"><del>as if</del> in transmission</text></p>
 <p>—c can live <span
 style="display:inline-block;width:1rem;"></span>with this green   </p>
@@ -29,7 +27,7 @@ style="display:inline-block;width:1rem;"></span>with this green   </p>
 <p>I can’t stop writing the&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;syntax of? </p>
 <hr>
 <p style="text-align:right;">Let me ask             again.</p>
-<p style="padding-left:2rem;"><strong>❦</strong></p>
+<h2>❦</h2>
 <hr>
 <p>And do I swoon?</p>
 <p style="text-align:right;">such pandering to antiquity.</p>
@@ -37,7 +35,7 @@ style="display:inline-block;width:1rem;"></span>with this green   </p>
 <p>the symbol of which           the curl of many a thing I sought</p>
 <p style="padding-left:21rem;">thought</p>
 <p style="padding-left:9rem;">then a phobia:</p>
-<p style="padding-left:2rem;"><strong>❦</strong></p>
+<h2>❦</h2>
 <hr>
 <p>. . . and the bodies moved into</p>
 <p style="padding-left:11rem;">the names for </p>
@@ -56,7 +54,7 @@ imperative</p>
 <p>diagnosis is&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;but</p>
 <p>a spatial distance</p>
 </blockquote>
-<p style="padding-left:2rem;"><strong>❦</strong></p>
+<h2>❦</h2>
 <hr>
 <p>My home brims. </p>
 <p>How strange it is    </p>
@@ -87,7 +85,6 @@ imperative</p>
 <hr>
 <p>                                 beside the river</p>
 <p>                                 of our undoing</p>
-</div>
 <h2>AVALON STREET</h2>
 <p class="forenote">For Brendan Allen</p>
 <p>They always return to us,</p>
@@ -128,3 +125,4 @@ imperative</p>
 <p>while I watch without trying </p>
 <hr>
 <p>too hard to keep hold.</p>
+</div>
