@@ -1,6 +1,6 @@
 ---
 title: '"5 More Notes from Luzira Prison"'
-contributor: Losarc Raal
+contributor: Carlos Lara
 ---
 
 after David Barasa
