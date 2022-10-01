@@ -3,7 +3,7 @@ title: Trilobite
 layout: default
 ---
 
-# Cross channel quadrophenia
+# Troublesome Hierophanies
 
 {% for item in site.current %}
 -   [{{ item.contributor }}, {{ item.title }}]({{ item.url }})
