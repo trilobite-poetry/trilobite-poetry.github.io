@@ -1,6 +1,6 @@
 ---
 title: two questions for trilobite
-contributor: Ted Reese
+contributor: Ted Rees
 issue: building a better (socialist) relationship with sulfur-eating bacteria
 ---
 
