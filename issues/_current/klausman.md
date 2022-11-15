@@ -1,6 +1,6 @@
 ---
 title: ten poems
-contributor: Michael Klausmann
+contributor: Michael Klausman
 issue: building a better (socialist) relationship with sulfur-eating bacteria
 ---
 

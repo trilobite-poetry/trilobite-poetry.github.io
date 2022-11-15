@@ -1,6 +1,6 @@
 ---
 title: two poems
-contributor: David Kaufman
+contributor: David Kaufmann
 issue: building a better (socialist) relationship with sulfur-eating bacteria
 ---
 
