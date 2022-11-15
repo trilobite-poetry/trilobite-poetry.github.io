@@ -3,7 +3,7 @@ title: Trilobite
 layout: default
 ---
 
-# Troublesome Hierophanies
+# Building a Better (Socialist) Relationship with Sulfur-Eating Bacteria
 
 {% for item in site.current %}
 -   [{{ item.contributor }}, {{ item.title }}]({{ item.url }})
