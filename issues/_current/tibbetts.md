@@ -1,6 +1,6 @@
 ---
 title: '"Slipping the Human On"'
-contributor: Carleen Tibbets
+contributor: Carleen Tibbetts
 issue: building a better (socialist) relationship with sulfur-eating bacteria
 ---
 
