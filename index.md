@@ -3,7 +3,7 @@ title: Trilobite
 layout: default
 ---
 
-# Building a Better (Socialist) Relationship with Sulfur-Eating Bacteria
+# The Feast of St. Fabiola
 
 {% for item in site.current %}
 -   [{{ item.contributor }}, {{ item.title }}]({{ item.url }})
