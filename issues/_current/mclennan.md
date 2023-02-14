@@ -1,6 +1,6 @@
 ---
 title: 'from *edgeless : letters,*'
-contributor: Rob McLennan
+contributor: rob mclennan
 ---
 
 <style>
