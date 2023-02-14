@@ -3,7 +3,7 @@ title: Trilobite
 layout: default
 ---
 
-# The Feast of St. Fabiola
+# Heartbeat of the Rhacolepis
 
 {% for item in site.current %}
 -   [{{ item.contributor }}, {{ item.title }}]({{ item.url }})
