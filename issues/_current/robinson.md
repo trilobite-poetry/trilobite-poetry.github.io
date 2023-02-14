@@ -3,6 +3,13 @@ title: three poems
 contributor: Elizabeth Robinson
 ---
 
+<style>
+article p {
+    padding-left:1.5rem!important;
+    text-indent:-1.5rem;
+}
+</style>
+
 ## The woman says
 
 I have an encrypted pregnancy:

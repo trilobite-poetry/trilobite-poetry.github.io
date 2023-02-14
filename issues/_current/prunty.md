@@ -4,10 +4,13 @@ contributor: Randy Prunty
 ---
 
 <style>
-p {
+article p {
     padding-bottom: 1.2rem;
+    padding-left: 1.5rem!important;
+    text-indent: -1.5rem;
 }
 </style>
+
 <h2 id="black-boat">Black Boat</h2>
 <p>We're in the ascendent</p>
 <p>wave smack</p>

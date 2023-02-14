@@ -13,6 +13,10 @@ contributor: Maw Shein Win
 }
 
 .indent3 {
+    text-indent: 13.5rem;
+}
+
+.indent4 {
     text-indent: 16rem;
 }
 
@@ -98,7 +102,7 @@ fall back to bed
 ---
 
 *grave, sliver*
-{: .indent3}
+{: .indent4}
 
 ## Log Thought
 
@@ -116,4 +120,4 @@ I named the country *Passionland*
 ---
 
 *cabinet, frost*
-{: .indent3}
+{: .indent4}

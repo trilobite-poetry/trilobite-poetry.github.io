@@ -7,9 +7,12 @@ contributor: Peter Gurnis
 .indent {
     text-indent: 3rem;
 }
-</style>
 
-## &nbsp;
+article p {
+    padding-left: 1.5rem!important;
+    text-indent: -1.5rem;
+}
+</style>
 
 It was obviously a sign
 
