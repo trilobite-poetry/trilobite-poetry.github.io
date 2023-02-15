@@ -20,6 +20,10 @@ contributor: Maw Shein Win
     text-indent: 16rem;
 }
 
+h2 {
+    margin-bottom: 4rem!important;
+}
+
 </style>
 
 ## Log Thought 
@@ -49,7 +53,7 @@ yawn explosion, I swipe away the muck
 ---
 
 *surcease, fronds*
-{: .indent3}
+{: .indent4}
 
 ## Log Thought
 
