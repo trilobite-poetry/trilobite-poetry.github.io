@@ -161,7 +161,7 @@ traditions break statues break laws they're all losers the
 enemies here and we're righteous It's clear and It's palatable
 simple swallow and best It's within easy reach
 
-## Urban Boy-Child Palimset
+## Urban Boy-Child Palimpsest
 
 Instructions:
 
