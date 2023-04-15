@@ -55,20 +55,21 @@ My dog carries the promise of a weedy afterlife on her gray haunches.
 # 6
 
 "Perhaps I myself am the enemy who must be loved." Carl Jung. The
-sentence presumes an "enemy." It presumes that enemies can be loved, and
-that by loving them they dissolve. It's the Henry James School of
-Buddhism I'm in; we tell the stories of our actions, then think about
-those actions, and then think again about how we blew it, act again in
-(or not in) kind, rinse and repeat. In the tragic farce of daily life,
-we are both actor and spectator, and we know the spectator to be an
-actor, rather like the baseball umpire who refused to shake a manager's
-hand. His refusal inserts him into the game he's there to represent
-behind the curtain of his chest protector. No one to protect us now:
+sentence presumes an "enemy." It presumes that enemies can be
+loved, and that by loving them they dissolve. It's the Henry
+James School of Buddhism I'm in; we tell the stories of our
+actions, then think about those actions, and then think again
+about how we blew it, act again in (or not in) kind, rinse and
+repeat. In the tragic farce of daily life, we are both actor and
+spectator, and we know the spectator to be an actor, rather like
+the baseball umpire who refused to shake a manager's hand. His
+refusal inserts him into the game he's there to represent behind
+the curtain of his chest protector. No one to protect us now:
 over half of teenage girls have considered suicide. The tree
-self-destructs, though that is its process. The girl self-destructs,
-though that is part of ours. The tree stands alone, like a old woman who
-believes she can still drive her car, and that's the pathos of it.
-{: .thinprose }
+self-destructs, though that is its process. The girl
+self-destructs, though that is part of ours. The tree stands
+alone, like an old woman who believes she can still drive her
+car, and that's the pathos of it. {: .thinprose }
 
 *My You acts on me as I act on it.* Acts like a tree with two trunks,
 the one who talks and the other who listens. Tim said, Susan, half your
