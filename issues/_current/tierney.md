@@ -1,5 +1,5 @@
 ---
-title: field guide to future flora
+title: '"field guide to future flora"'
 contributor: Orchid Tierney
 ---
 
