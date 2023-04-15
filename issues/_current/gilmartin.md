@@ -1,5 +1,5 @@
 ---
-contributor: Steve Gilma
+contributor: Steve Gilmartin
 title: three poems
 ---
 
