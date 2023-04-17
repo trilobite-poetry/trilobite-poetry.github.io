@@ -69,7 +69,8 @@ over half of teenage girls have considered suicide. The tree
 self-destructs, though that is its process. The girl
 self-destructs, though that is part of ours. The tree stands
 alone, like an old woman who believes she can still drive her
-car, and that's the pathos of it. {: .thinprose }
+car, and that's the pathos of it.
+{: .thinprose }
 
 *My You acts on me as I act on it.* Acts like a tree with two trunks,
 the one who talks and the other who listens. Tim said, Susan, half your
