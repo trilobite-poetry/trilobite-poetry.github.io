@@ -32,3 +32,4 @@ exclude:
   - tag-gen
   - tags
   - test.html
+  - manual/
