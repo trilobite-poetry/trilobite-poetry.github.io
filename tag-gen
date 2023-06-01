@@ -1,0 +1,13 @@
+#!/bin/bash
+
+ctags -R \
+    --kinds-CSS=+cs \
+    --kinds-SCSS=+civ \
+    --kinds-Yaml=+a \
+    --languages=SCSS \
+    --languages=+Yaml \
+    -f tags \
+    -h .scss.yml \
+    --exclude='_site' \
+    --exclude='issues' \
+    *
