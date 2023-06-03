@@ -1,6 +1,7 @@
 ---
 contributor: Barbara Tomash
 title: three poems
+issue: arousing texigryphaea
 ---
 
 <style>

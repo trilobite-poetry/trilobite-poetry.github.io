@@ -1,6 +1,7 @@
 ---
 contributor: Steve Gilmartin
 title: three poems
+issue: arousing texigryphaea
 ---
 
 ## Natural
