@@ -1,0 +1,89 @@
+@keyframes throb
+  0%
+    color: $black
+  50%
+    color: darkgrey
+  100%
+    color: $black
+
+body
+  background-image: url("/assets/images/background.png")
+  background-size: 35px 48px
+  background-repeat: repeat
+
+header
+  margin: 0 15vw
+  display: flex
+  align-items: center
+  justify-content: flex-start
+  h1
+    font-size: 3rem
+    animation-name: throb
+    animation-duration: 30s
+    animation-iteration-count: infinite
+  p
+    font-size: .75rem
+  div
+    margin: 0 auto
+  img
+    height: 12vw
+    width: 12vw
+    border-right: 2px solid $black
+    border-left: 2px solid $black
+
+nav
+  height: 3rem
+  margin: 0 15vw
+  p
+    font-size: 1.5rem
+    margin: 0
+    padding: .75rem 2rem
+
+article
+  min-height: 65vh
+  margin: 0 15vw
+  padding: 1rem 0
+
+h1, p
+  padding: 0 1rem
+
+.mobile
+  display: none
+
+.prose
+  max-width: 800px
+  margin: 0 auto 1rem auto
+
+.prose-block
+  max-width: 500px
+
+.small-img
+  width: 600px
+
+.mid-img
+  width: 80%
+  padding: 1rem 10%
+
+.tradwrap p
+  padding-left: 3rem !important
+
+#toc ul
+  margin: 1rem 0 0 0
+  padding: 1rem
+  border-left: 1px solid grey
+  border-top: 1px solid grey
+  border-bottom: 1px solid grey
+
+#book
+  row-gap: 1rem
+
+.gridlayout
+  display: grid
+  grid-template-columns: 4rem 4rem 4rem 4rem auto
+  hr
+    grid-column: 1 / 6
+    margin: 1rem 0 0 0
+
+.garamond p
+  font-size: 1.1rem
+
