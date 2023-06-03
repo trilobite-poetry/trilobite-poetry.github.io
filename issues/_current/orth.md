@@ -5,8 +5,6 @@ contributor: Steve Orth
 
 ## "Thoughts on AI"
 
----
-
 I'm afraid of AI and I hope
 
 ---
@@ -159,8 +157,6 @@ about AI, I accept that there could be many potential benefits.
 ---
 
 ## Whole Foods Market
-
----
 
 When there is blood on my hands, I stuff them in my pockets
 
