@@ -23,7 +23,7 @@ contributor: 'Adriána Kóbor'
 
 ## DAWNEDOWNED
 
-Hopper ate the pies with marmelade \[...\] --- hope operating on a plate,
+Hopper ate the pies with marmalade \[...\] --- hope operating on a plate,
 
 *undissolving distance*, a fading magenta and the dissipated blue.
 
@@ -119,10 +119,10 @@ pulling the strings. \[...\] Miles off my coast:
 a steelhead, a tin soldier
 {: .ts19 }
 
-plundering the waist coat threwn on the heap of rubbish,
+plundering the waist coat thrown on the heap of rubbish,
 
 taming
-kangoroos with a
+kangaroos with a
 sweet Southern Italian accent.
 
 The dialectic behaviorism of *the dyslectic disc*,
@@ -148,7 +148,7 @@ to suck in the most light.
 
 ---
 
-In the QED vacuum, your particles hop into and out of existance,
+In the QED vacuum, your particles hop into and out of existence,
 
 My black body photons dissimulating the simulation, \[...\]
 
@@ -369,7 +369,7 @@ calm arousing me with its calmness,
 telling me that
 there is still time to become. My unthoughts
 
-are the manifolds in this balance vaccuum.
+are the manifolds in this balance vacuum.
 
 Regardless the matter, I unfeel.
 
@@ -392,7 +392,7 @@ that increases on the sheet of paper.
 
 ---
 
-Don't write God's name on it. Put some suncream; grapeseed aromas
+Don't write God's name on it. Put some sun cream; grapeseed aromas
 
 mixing with the bitter smell of the grape leaves. I write
 his name
@@ -415,7 +415,7 @@ Terneuzen, 29-05-2023
 
 ## DOWN
 
-The commercial value of the momentuous cover he pulled over
+The commercial value of the momentous cover he pulled over
 himself, has divided him into two entities I won't name. The
 screws in the lamellae in the agellation as a dismal distance,
 have illuminated his aluminium face. The onions, also part of the
@@ -440,17 +440,17 @@ with his absence.
 {: .prose-block }
 
 The subject of my love got further compressed. The more I have
-detected his abscense, the more I fell for this nothingness, with
+detected his absence, the more I fell for this nothingness, with
 my masochistic trait turning into a habit. How can one so much
 love the 'nothing'? Michael, you, or I were developing or
 de-evolving ourselves into the faceless entities on a crumbling
 time-line, yet to be drawn on that which the graphic of the
 seismograph was registering as a graphic in real-time. The
 continental plates weren't more restless than our current
-society, which sticks out between . cm to cm from the Earth's
-surface -- with the tallest and the shortest human beings. Yet,
-we were actually capable to detect absense by quantifying it:
-hence death, hence living, weren't we?
+society, which sticks out between 54.6 cm to 272 cm from the
+Earth's surface -- with the tallest and the shortest human
+beings. Yet, we were actually capable to detect absence by
+quantifying it: hence death, hence living, weren't we?
 {: .prose-block }
 
 I apply a shortcut and the person is either deceased or deceived.
@@ -472,10 +472,10 @@ turned the machine into the lengthening of themselves to reach
 other possible heights, or: heightened realities, still
 implemented into human history. Just like the female sitting over
 me at the table has put on her glasses. We are capable to obtain
-the protrusions, either esh or machine. The machine can read into
-Broca's area, a machine learning mechanism can visualize the
+the protrusions, either flesh or machine. The machine can read
+into Broca's area, a machine learning mechanism can visualize the
 thoughts in language via the electrodes attached to the right
-neurons on the cortex. Soon, mortality won't necesseraly take
+neurons on the cortex. Soon, mortality won't necessarily take
 place. Intellect uploaded in the cloud. So, what does my
 operation to un-be and un-think myself and to investigate nothing
 should result in?
@@ -487,15 +487,15 @@ my spiritual journey and my linguistic journey coinciding -- but
 aren't likely to merge -- , as I have been thinking about it
 throughout the years? My career, the content-carrier, the
 unloaded freight train and the loaded freight ship, shan't be
-considered by anything else but their loads. Am I, intelligible,
-through the blank page -- I would be so eager to submit -- , as
+considered by anything else but their loads. Am I, *intelligible*,
+through the blank page -- I would be so eager to submit --, as
 an answer to your question, and all the questions alike?
 {: .prose-block }
 
 How dissatisfactory are we with the absolute starting point:
 'nothing', which is not even a point, nor a temporal escape from
-the knowledge we earn while nding the ultimate metaphor […] on
-all of us, for the people, […] nally exitting the stage,
+the knowledge we earn while finding the ultimate metaphor […] on
+all of us, for the people, […] finally exiting the stage,
 dissolving into not even an absence but pure nothingness?
 Inexistence. Where all the isms melt like gyzm, the only 'self-
 contained force' triggering the female egg, and the host's body,
@@ -512,10 +512,10 @@ impossibly done in an email. I need an address to be able to send
 a message to, but I oddly don't need an addressee when I scribble
 a writing on the paper. Do I? Am I supposed to be read, and are
 you supposed to read me? How could all this information get lost,
-without being undone? The scrolls are rolling on the oor, and I
+without being undone? The scrolls are rolling on the floor, and I
 am rolling on top of them. My body is becoming text, as I unfold
 in the physical space taken and begrimed by the letters. I want
-to un-be me. I have no other choices left than to nally get rid
+to un-be me. I have no other choices left than to finally get rid
 of myself.
 {: .prose-block }
 
@@ -527,7 +527,7 @@ mainly stochastically arranged, deranged system. Life is devoid
 of logic. Life lacks coherence. Writing lacks coherence. Love is
 at least aiming for 'some' coherence. So, we cross-dissolve into
 each other like two slides, as two mirrors being shifted one over
-the other, without our surfaces touching. "Keep sur ng, and enjoy
+the other, without our surfaces touching. "Keep surfing, and enjoy
 your holidays", I read it on the imaginary postcard my mind has
 just sent me.
 {: .prose-block }
@@ -541,7 +541,7 @@ miss out on our chances to have any silence, any vacuum, we would
 have impossibly existed. Nothing is the only 'split' where
 something can begin and end, almost simultaneously, and there
 must be a moment in time, where there is absolutely nothing. We
-will always have a hard time to percieve such a thing as
+will always have a hard time to perceive such a thing as
 nothingness.
 {: .prose-block }
 
@@ -557,7 +557,7 @@ had already taken the leap-of-faith, so irreversible?
 {: .prose-block }
 
 What if I have already unbeen? What if I was already unthought?
-And what if re-appearing in text would no further de ne the shape
+And what if re-appearing in text would no further define the shape
 I exist in? What if our self-worth wasn't dependent on the shapes
 we take and the functions we hold? Could we evolve from these
 robotic and utilitarian human beings into something more than the
