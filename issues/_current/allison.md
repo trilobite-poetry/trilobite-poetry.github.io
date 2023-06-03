@@ -1,5 +1,5 @@
 ---
-title: 'Hair, Scalp, and Skin Oil'
+title: '"Hair, Scalp, and Skin Oil"'
 contributor: Shane Allison
 ---
 
