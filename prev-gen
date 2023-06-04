@@ -1,0 +1,17 @@
+#!/bin/bash
+
+bundle exec jekyll build
+
+cp -r _site/* preview/
+
+cd preview
+
+rm README.md
+rm sitemap.txt
+rm test.html
+rm -r past
+rm Gemfile
+rm Gemfile.lock
+rm CNAME
+rm assets/daly.mp3
+rm assets/media/daly.mp3

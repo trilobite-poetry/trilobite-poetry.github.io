@@ -26,3 +26,10 @@ exclude:
   - secret/
   - sitemap-gen.fish
   - attachments/
+  - preview/
+  - ctags-kinds
+  - prev-gen
+  - tag-gen
+  - tags
+  - test.html
+  - manual/

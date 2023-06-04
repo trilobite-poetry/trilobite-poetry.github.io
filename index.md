@@ -3,7 +3,7 @@ title: Trilobite
 layout: default
 ---
 
-# Arousing Texigryphaea
+# Redlichiida Summer
 
 {% for item in site.current %}
 -   [{{ item.contributor }}, {{ item.title }}]({{ item.url }})
