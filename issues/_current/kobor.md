@@ -4,7 +4,6 @@ title: |
 contributor: 'Adriána Kóbor'
 ---
 
-<h2>Horatius' Bad Day</h2>
 <div style="display:flex;flex-flow: row nowrap; height: 80vh; overflow: scroll;">
 <img style="width: auto; padding-right: 10px;" src="/assets/images/kobor-1.jpeg" alt="Horatiusâ Bad Day 1" />
 <img style="width: auto; padding-right: 10px;" src="/assets/images/kobor-2.jpeg" alt="Horatiusâ Bad Day 2" />
