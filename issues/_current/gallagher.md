@@ -1,10 +1,6 @@
 ---
-title: ten poems
+title: '"beasts"'
 contributor: Kristen Gallagher
----
-
-beasts
-
 ---
 
 who says I eat human flesh
