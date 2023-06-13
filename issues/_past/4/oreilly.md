@@ -2,6 +2,7 @@
 title: '"Farewell Molester Square"'
 contributor: "Daniel O'Reilly"
 issue: troublesome hierophanies
+custom_css: prose
 ---
 
 *I made a small friend.*

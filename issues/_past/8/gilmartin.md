@@ -2,6 +2,7 @@
 contributor: Steve Gilmartin
 title: three poems
 issue: arousing texigryphaea
+custom_css: prose
 ---
 
 ## Natural

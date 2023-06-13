@@ -2,6 +2,7 @@
 title: three poems
 contributor: Tamas Panitz
 issue: productive looking
+custom_css: prose
 ---
 
 ## Read to Kill
