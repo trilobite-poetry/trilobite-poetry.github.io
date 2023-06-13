@@ -2,6 +2,7 @@
 title: '"Moving Along the Grass at an Uneven Tempo"'
 contributor: Dylan Ecker
 issue: productive looking
+custom_css: prose
 ---
 
 <div class="prose">

@@ -2,6 +2,7 @@
 title: '"Before Softboi"'
 contributor: Sean Turner McLeod
 issue: cross channel quadrophenia
+custom_css: prose
 ---
 
 <div class="prose-block">

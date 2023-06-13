@@ -4,6 +4,12 @@ contributor: Thomas Delahaye
 issue: productive looking
 ---
 
+<style>
+.garamond p {
+    font-family: Garamond, serif !important;
+}
+</style>
+
 <div class="whitespace garamond">
 <p>Can only be brought forth fatally.</p>
 <p>  Even walking around is divvy,</p>

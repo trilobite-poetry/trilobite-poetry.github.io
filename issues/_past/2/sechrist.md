@@ -2,6 +2,7 @@
 title: '"Pelagy"'
 contributor: Joey Sechrist
 issue: productive looking
+custom_css: prose
 ---
 
 <div class="prose">

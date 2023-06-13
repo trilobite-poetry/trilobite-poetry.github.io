@@ -2,6 +2,7 @@
 title: from *Sketches of a Modern Square*
 contributor: Stephen Dudas
 issue: productive looking
+custom_css: picturebook
 ---
 
 <div id="book">

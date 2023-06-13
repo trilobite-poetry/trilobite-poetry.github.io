@@ -2,6 +2,7 @@
 title: |
   "Horatius' Bad Day"
 contributor: 'Adriána Kóbor'
+custom_css: prose
 ---
 
 <div style="display:flex;flex-flow: row nowrap; height: 80vh; overflow: scroll;">

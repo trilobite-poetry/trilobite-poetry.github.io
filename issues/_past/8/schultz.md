@@ -2,6 +2,7 @@
 contributor: Susan M. Schultz
 title: 'from *I and Eucalyptus*'
 issue: arousing texigryphaea
+custom_css: prose
 ---
 
 # 1
