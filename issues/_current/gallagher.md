@@ -1,10 +1,6 @@
 ---
-title: ten poems
+title: '"beasts"'
 contributor: Kristen Gallagher
----
-
-beasts
-
 ---
 
 who says I eat human flesh
@@ -20,7 +16,10 @@ or even just bones
 we can work this out
 
 ---
-{: .newpoem }
+
++
+
+---
 
 swamp gator
 
@@ -41,7 +40,10 @@ kicked out of a cloud
 just like Milton said
 
 ---
-{: .newpoem }
+
++
+
+---
 
 I'd be happy
 
@@ -70,7 +72,10 @@ they look up at us
 then hang their heads
 
 ---
-{: .newpoem }
+
++
+
+---
 
 all along the development
 
@@ -101,7 +106,10 @@ between our breathing mouths
 and stinkbugs filling the bedroom
 
 ---
-{: .newpoem }
+
++
+
+---
 
 the red crabs need a wire bridge
 
@@ -120,7 +128,10 @@ cars should become frog nests
 eagles are intellects of the gorge
 
 ---
-{: .newpoem }
+
++
+
+---
 
 for ppl who like
 
@@ -139,7 +150,10 @@ that says JOBCELS
 these times need a whole new language
 
 ---
-{: .newpoem }
+
++
+
+---
 
 sad jobcels --
 
@@ -166,7 +180,10 @@ to not sleep outside
 with the wet ducks
 
 ---
-{: .newpoem }
+
++
+
+---
 
 I was in a flow state
 
@@ -221,7 +238,10 @@ and listening to The Kinks
 Lola vs. Powerman
 
 ---
-{: .newpoem }
+
++
+
+---
 
 in the remembrance place
 
@@ -256,7 +276,10 @@ becoming objects
 the shadow out from under
 
 ---
-{: .newpoem }
+
++
+
+---
 
 like a dog in a play
 
