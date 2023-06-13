@@ -22,8 +22,11 @@ journeys of terror, a time machine, refusals, imitations,
 
 and eyelids of ideology.
 
+---
+{: .newpoem }
+
 after Tiago Simon Amatry
-{: .forenote .newpoem }
+{: .forenote }
 
 A sign of the matrimony of silence and fire,
 
@@ -39,8 +42,11 @@ I look for its maths in the street; there
 
 Is no experience, no life
 
+---
+{: .newpoem }
+
 after Isaac Zyawe
-{: .forenote .newpoem }
+{: .forenote }
 
 Apologies for a commingling curse
 
@@ -56,8 +62,11 @@ running amok, postscript playing loose
 
 and holy, fast, reading terrifies a person
 
+---
+{: .newpoem }
+
 after Isaac Kamara
-{: .forenote .newpoem }
+{: .forenote }
 
 My head breaks, science in the risible form of consumption and
 sentience, I'd rather shatter the drinks and wake in mute, virulent
@@ -65,8 +74,11 @@ merriment, forming a nation of limbic whispering impressions, limbs
 that, into the thinking night, stop.
 {: .prose }
 
+---
+{: .newpoem }
+
 after Francisco Nicodemus Obita
-{: .forenote .newpoem }
+{: .forenote }
 
 Weird Johnny
 
