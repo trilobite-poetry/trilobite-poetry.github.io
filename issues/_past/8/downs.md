@@ -1,7 +1,7 @@
 ---
 title: nine poems
 contributor: Buck Downs
-issue: arousing texigryphaea
+issue: arousing Texigryphaea
 ---
 
 ## hard like

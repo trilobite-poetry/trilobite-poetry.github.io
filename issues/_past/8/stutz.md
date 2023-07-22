@@ -1,7 +1,7 @@
 ---
 title: four poems
 contributor: Adam Stutz
-issue: arousing texigryphaea
+issue: arousing Texigryphaea
 ---
 
 ## Hunger Flowers
