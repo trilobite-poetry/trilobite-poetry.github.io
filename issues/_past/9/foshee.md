@@ -1,4 +1,5 @@
 ---
+issue: Redlichiida summer
 title: three poems
 contributor: Laurence Foshee
 ---

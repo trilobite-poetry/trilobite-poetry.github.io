@@ -1,4 +1,5 @@
 ---
+issue: Redlichiida summer
 title: four ink marker drawings
 contributor: Brian Lucas
 ---

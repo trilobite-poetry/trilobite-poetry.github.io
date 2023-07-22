@@ -1,4 +1,5 @@
 ---
+issue: Redlichiida summer
 title: '"Character"'
 contributor: Ish Klein
 ---

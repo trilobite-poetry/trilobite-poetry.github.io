@@ -1,4 +1,5 @@
 ---
+issue: Redlichiida summer
 title: '"beasts"'
 contributor: Kristen Gallagher
 ---
