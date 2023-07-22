@@ -1,7 +1,20 @@
 ---
 title: poems
 contributor: Roberto Harrison
+custom_css: toc
 ---
+
+- [unwanted connection](#unwanted-connection)
+- [talking after patterns](#talking-after-patterns)
+- [morning harness](#morning-harness)
+- [intention designations](#intention-designations)
+- [memories of the future](#memories-of-the-future)
+- [lunch time](#lunch-time)
+- [the dog gave us couples counseling](#the-dog-gave-us-couples-counseling)
+- [the dog brings us home](#the-dog-brings-us-home)
+- [heads up to death plan erasures](#heads-up-to-death-plan-erasures)
+- [I am eager key up my carriage](#I-am-eager-key-up-my-carriage)
+{: #toc }
 
 ## unwanted connection
 
