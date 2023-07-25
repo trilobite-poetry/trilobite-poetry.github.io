@@ -1,0 +1,1769 @@
+---
+title: 'from *The Palace of Boundless Cold*'
+contributor: Joe Donahue
+---
+
+Astonished children
+
+slowly approaching a huge
+
+oak the storm tipped
+
+across the street in the night.
+
+They slip past the orange cones.
+
+---
+
+---
+
+Small girl, delighting,
+
+calling to her brother from
+
+the crown of the tree
+
+their tricycles left to roll
+
+down the slight slant of the street.
+
+---
+
+---
+
+All kids here become
+
+birds again as they warble
+
+in the downthrown crown.
+
+"Not all forms are forms of death,"
+
+they would seem to be singing.
+
+---
+
+---
+
+\*
+{: .ts2 }
+
+---
+
+---
+
+Weeks later, a gleam
+
+of reddish gold, a single
+
+strand of hair catches
+
+the light on the couch where your
+
+tresses fell loose about you.
+
+---
+
+---
+
+(I concluded, then,
+
+your silence was not an
+
+oversight, that, at
+
+some point, it occurred to you
+
+to give me no further sign.)
+
+---
+
+---
+
+\*
+{: .ts2 }
+
+---
+
+---
+
+All is burning now
+
+in the places of past joys.
+
+The playground and creek
+
+where I would take the children
+
+are bursts of flame on the news.
+
+---
+
+---
+
+\*
+{: .ts2 }
+
+---
+
+---
+
+Your wife made you feel
+
+only lonely, yet you stayed.
+
+You forgot our hours
+
+together, our faces close,
+
+confessing our deepest joys.
+
+---
+
+---
+
+My note was playful.
+
+I put all my charm into it,
+
+Still, you don't write back.
+
+Rains have flooded the garden.
+
+Petals go spiraling off.
+
+---
+
+---
+
+As sick as I am
+
+my beauty will not weaken.
+
+Too listless to brush
+
+my hair, I just push it back,
+
+tresses that once dazzled you.
+
+---
+
+---
+
+All those messages
+
+sent out in the fever of
+
+my depraved nights,
+
+that would have ruined us both,
+
+did you keep at least a few?
+
+---
+
+---
+
+\*
+{: .ts2 }
+
+---
+
+*snake*
+{: .ts4 }
+
+---
+
+---
+
+Words in black cursive
+
+write themselves across the road.
+
+A snake at mid-day.
+
+An elegant hand renders
+
+an otherworldly update.
+
+---
+
+---
+
+This is the moment,
+
+in your many years of life,
+
+a black snake appears.
+
+Others will say: "It's nothing,
+
+it doesn't mean anything."
+
+---
+
+---
+
+Such a complex truth
+
+the snake writes on the road,
+
+shaping no letters,
+
+just the black, slanting loops
+
+of the moment of writing.
+
+---
+
+---
+
+The snake says just this:
+
+"I have unraveled a thread
+
+in the veil between
+
+two worlds, the visible one,
+
+and the one I return to."
+
+---
+
+---
+
+\*
+{: .ts2 }
+
+---
+
+---
+
+So many, long gone,
+
+are frolicking in a dream.
+
+The shore at evening,
+
+those boulders where the waves break.
+
+The long gone keep arriving.
+
+---
+
+---
+
+\*
+{: .ts2 }
+
+---
+
+---
+
+Such beautiful light
+
+after days at the deathbed.
+
+Heading to the cars,
+
+siblings, now fatherless,
+
+each taking out a key.
+
+---
+
+---
+
+\*
+{: .ts2 }
+
+---
+
+---
+
+(You will die lonely
+
+having inspired no one
+
+to be with you then
+
+or worse, your spouse, who'll find
+
+some last way to make you feel bad.)
+
+---
+
+---
+
+\*
+{: .ts2 }
+
+---
+
+---
+
+Fifty years from now
+
+this will all be a desert.
+
+Now and then, a flood.
+
+You will be forgotten but
+
+your torments will continue.
+
+---
+
+---
+
+\*
+{: .ts2 }
+
+---
+
+---
+
+How this came to be
+
+not even the chill wet wind
+
+in which the forest
+
+trembles, has any idea,
+
+coming in gusts from the east.
+
+---
+
+---
+
+\*
+{: .ts2 }
+
+---
+
+---
+
+I am fading out.
+
+Habitual gestures are
+
+what I am known by.
+
+I keep my tears to myself.
+
+Sometimes a breeze dries my face.
+
+---
+
+---
+
+\*
+{: .ts2 }
+
+---
+
+---
+
+Fire burns unseen
+
+inside the tree: a pillar
+
+of bright combustion,
+
+the core of still living wood.
+
+(Even the roots are burning.)
+
+---
+
+---
+
+\*
+{: .ts2 }
+
+---
+
+---
+
+All seems pale today,
+
+as if color had been kept
+
+from returning, from
+
+wherever it goes at night.
+
+As if light is still dreaming.
+
+---
+
+---
+
+\*
+{: .ts2 }
+
+---
+
+---
+
+After such singing
+
+no one is ever the same.
+
+Grief and wonder flow
+
+in and through and out of us
+
+long after the song is done.
+
+---
+
+---
+
+\*
+{: .ts2 }
+
+---
+
+---
+
+To lose all like that
+
+is so cruel, then to be old,
+
+kneel on a sidewalk,
+
+cry, nowhere to go. Winter
+
+dark, ice gleaming on the streets.
+
+---
+{: .newpoem }
+
+When I was a child
+
+they gave ballet lessons there,
+
+but it cost too much.
+
+That was the first of my dreams
+
+making me ache so, like this.
+
+---
+
+---
+
+\*
+{: .ts2 }
+
+---
+
+---
+
+Nights of the full moon
+
+I see how empty my bed.
+
+Sheets glow like a field
+
+of fresh snow, where, if I lie
+
+down, no one will ever find me.
+
+---
+
+---
+
+\*
+{: .ts2 }
+
+---
+
+---
+
+So much that mattered
+
+drifts over the horizon
+
+like chunks of Greenland
+
+turning back into water,
+
+the essential element.
+
+---
+
+---
+
+\*
+{: .ts2 }
+
+---
+
+*lying alone*
+{: .ts4 }
+
+---
+
+---
+
+Awake, past midnight.
+
+so much love was mistaken.
+
+Lying here, alone.
+
+The night sky is pale but dense.
+
+Heaven is hidden from me.
+
+---
+
+---
+
+Lying here, alone.
+
+The world still claims it's summer
+
+but winter fills me.
+
+My fields are bare, my woods, dull.
+
+The trees are sealed in ice.
+
+---
+
+---
+
+Hungry and asleep
+
+I dream of a feast, and those
+
+much missed are there,
+
+in my head, chatting, laughing,
+
+as I lie alone in the dark.
+
+---
+
+---
+
+It was their last night
+
+before catastrophe struck.
+
+Looked back on, all
+
+seems fraught. But that is wrong.
+
+They lay happily entwined.
+
+---
+
+---
+
+Certain things you said,
+
+so close, barely whispering,
+
+in the pillowed dark,
+
+they still thrill me. Though long
+
+alone, I feel you are close.
+
+---
+
+---
+
+How desolate now
+
+those once cherished places,
+
+those rocks by the sea
+
+the waves still erupt against,
+
+where a boy and a girl once kissed.
+
+---
+
+---
+
+Lying here, alone,
+
+after midnight, looking up
+
+through a small gap in the trees.
+
+For me, no moon will return,
+
+even when shining and full.
+
+---
+
+---
+
+Never to see you
+
+after that last night of love
+
+except in my head
+
+where you are, as you were then,
+
+like an amorous shadow.
+
+---
+
+---
+
+\*
+{: .ts2 }
+
+---
+
+---
+
+The light seems certain.
+
+But when I look up again,
+
+the glow on the ground
+
+is no longer happening.
+
+The grass sinks into shadow.
+
+---
+
+---
+
+\*
+{: .ts2 }
+
+---
+
+*mist*
+{: .ts4 }
+
+---
+
+---
+
+A mist in the trees
+
+in shadows, and in sunlight.
+
+Early radiance,
+
+while awakening inside
+
+a house, a spouse is cursing.
+
+---
+
+---
+
+What grief can find you?
+
+You are hiding in a mist.
+
+You're no longer you
+
+amid glowing molecules
+
+that coil, and drift, and dispel.
+
+---
+
+---
+
+The air seems chalky.
+
+As in school, the lesson done,
+
+the board is erased.
+
+No one after will ever
+
+know what was once written.
+
+---
+
+---
+
+In such mist lovers
+
+might decide to meet, despite
+
+the full light of day.
+
+They might slip out of their bodies
+
+and lie down in the shining.
+
+---
+
+---
+
+A mist out of which
+
+the perceptible steps forth.
+
+Much not given the
+
+senses is there as well, so
+
+bright, close to becoming thought.
+
+---
+
+---
+
+The first ideas
+
+that ever excited me
+
+somehow have returned,
+
+ready to be thought anew,
+
+at the far end of a mist.
+
+---
+
+---
+
+\*
+{: .ts2 }
+
+---
+
+---
+
+The mist? Only dust,
+
+freed by a construction site,
+
+drifting through the trees.
+
+Voices, and clattering tools,
+
+tearing, grinding, then silence.
+
+---
+
+---
+
+\*
+{: .ts2 }
+
+---
+
+---
+
+Nothing on the screen.
+
+What else do I log on for
+
+But for word from you?
+
+Months since any fantasies
+
+found their way to your fingers.
+
+---
+
+---
+
+\*
+{: .ts2 }
+
+---
+
+---
+
+Weeks now of no word.
+
+The simplest of your whispers,
+
+some barely a gasp,
+
+I hear again, in my mind,
+
+and lie sleepless, and longing.
+
+---
+
+---
+
+\*
+{: .ts2 }
+
+---
+
+---
+
+Fire-pit smoke fills
+
+the forest hollows at night,
+
+hangs over the stream,
+
+filters into the houses
+
+and sets off fire alarms.
+
+---
+
+---
+
+\*
+{: .ts2 }
+
+---
+
+---
+
+Mist conceals the field.
+
+It cannot be said for sure
+
+if the deer are there.
+
+They could be made of fire,
+
+grazing deep inside the mist.
+
+---
+
+---
+
+\*
+{: .ts2 }
+
+---
+
+---
+
+Through their shining webs
+
+the thoughts of spiders arrive.
+
+The web is what thinks,
+
+after the rain, glittering,
+
+silver, in a silver mist.
+
+---
+
+---
+
+\*
+{: .ts2 }
+
+---
+
+---
+
+Soaked and glowing world,
+
+the sun's no longer needed.
+
+Secondary light
+
+is rising from the drenched ground,
+
+much as the mystics foresaw.
+
+---
+
+---
+
+\*
+{: .ts2 }
+
+---
+
+---
+
+What is awaited?
+
+Stillness intensifies.
+
+The day may yet rain.
+
+---
+
+Mist is gathering elsewhere.
+
+These last moments are endless.
+
+---
+
+---
+
+\*
+{: .ts2 }
+
+---
+
+---
+
+Cardboard and tin cans
+
+absorbing the rain, or, re-
+
+sounding with each drop,
+
+empty trash cans on the curb.
+
+I hear all that time touches.
+
+---
+
+---
+
+\*
+{: .ts2 }
+
+---
+
+---
+
+You were years ago,
+
+but I have not forgotten
+
+lying side by side,
+
+our whispers lost in the mist
+
+of exuberant rainfall.
+
+---
+
+---
+
+We never touched.
+
+Talking was all we needed.
+
+Spectacular chat!
+
+You have stepped into death.
+
+I'm alone in this silence.
+
+---
+
+---
+
+\*
+{: .ts2 }
+
+---
+
+---
+
+Living in sight of
+
+a mountain might clarify
+
+my loss, a mountain
+
+of snow, bare stone shining bright
+
+above all this misery.
+
+---
+
+---
+
+\*
+{: .ts2 }
+
+---
+
+---
+
+These are offerings
+
+to quicken oblivion.
+
+I'm a living shadow
+
+at the altar of full noon,
+
+done with ever having been.
+
+---
+
+---
+
+\*
+{: .ts2 }
+
+---
+
+*ancestors*
+{: .ts4 }
+
+---
+
+---
+
+Mother, nothing more
+
+than a vivid memory.
+
+Father, nothing more
+
+than wind kicking up leaves
+
+or dragging away the house.
+
+---
+
+---
+
+Father, nothing more
+
+than a glaze of rainwater.
+
+Mother, nothing more
+
+than silver light rising
+
+from a wet and empty field.
+
+---
+
+---
+
+Mother, nothing more
+
+than a chunk of white crystal.
+
+Father, nothing more
+
+than an idle building site:
+
+slabs, beams, rebar, and gravel.
+
+---
+
+---
+
+Father, nothing more
+
+than clouds along a cliff-face.
+
+Mother, nothing more
+
+than a pilgrim on a path
+
+that vanishes into mist.
+
+---
+
+---
+
+Mother, nothing more
+
+than cloth dipped in crimson.
+
+Father, nothing more than
+
+a decorative feather
+
+in a parking lot briar.
+
+---
+
+---
+
+Father, nothing more
+
+than warm welcome in the void.
+
+Mother, nothing more
+
+than a song before bedtime
+
+after a very long day.
+
+---
+
+---
+
+Mother, nothing more
+
+than the least possible light.
+
+Father, nothing more
+
+than last shadows at twilight,
+
+night now free to overwhelm.
+
+---
+
+---
+
+Father, nothing more
+
+than wry, affectionate words.
+
+Mother, nothing more
+
+than pathos, hilarity
+
+in a quick-witted aside.
+
+---
+
+---
+
+Mother, nothing more
+
+than a brush dipped in ink.
+
+Father, nothing more
+
+than an ink-stroke on a scroll
+
+that depicts a parasol.
+
+---
+
+---
+
+\*
+{: .ts2 }
+
+---
+
+---
+
+Hand, scooping damp earth
+
+in a desert, last of night's
+
+cool, leaving the air
+
+as the light rises, slowly,
+
+behind a mountain that looks black.
+
+---
+
+---
+
+\*
+{: .ts2 }
+
+---
+
+---
+
+I told you things that
+
+no one else will ever know.
+
+Is that why you left?
+
+No need to wait for winter.
+
+The deepest cold drifts through me.
+
+---
+
+---
+
+\*
+{: .ts2 }
+
+---
+
+---
+
+Once red leaves, gone.
+
+Your agony is over.
+
+The tree, still half green,
+
+twists in dismay at what time
+
+is about to do to it.
+
+---
+
+---
+
+\*
+{: .ts2 }
+
+---
+
+---
+
+In the rotunda
+
+a pianist plays Bach for
+
+the waiting patients.
+
+The notes float up to them
+
+as they await their treatments.
+
+---
+
+---
+
+\*
+{: .ts2 }
+
+---
+
+---
+
+I wanted to be
+
+simply there to be kissed,
+
+like a servant called
+
+late at night to the bedroom
+
+when the King is off to war.
+
+---
+
+---
+
+I wanted to be,
+
+A full cup at your dry lips,
+
+a delicious sip,
+
+wine drunk in the cool night air
+
+as you think of someone else.
+
+---
+
+---
+
+I wanted to be
+
+punished and forgiven,
+
+at your whim, by you,
+
+on a night consecrated
+
+to a lighthearted scandal.
+
+---
+
+---
+
+I wanted to be
+
+ashes in your hearth, heaped
+
+after a great blaze,
+
+be a cinder aglow from
+
+the touch of your fingertips.
+
+---
+
+---
+
+\*
+{: .ts2 }
+
+---
+
+---
+
+Days are wet and dark.
+
+The moon, having wept all night,
+
+has thrown itself off
+
+the cliff of the horizon
+
+and is drowning in the sun.
+
+---
+
+---
+
+\*
+{: .ts2 }
+
+---
+
+---
+
+Flits, fluffs, preens, the wren
+
+opens its wings to the sun,
+
+then seems to cry out.
+
+I wonder, is that song yours,
+
+wherever you now are?
+
+---
+
+---
+
+\*
+{: .ts2 }
+
+---
+
+---
+
+That may be a land
+
+of always falling blossoms
+
+and quiet grieving.
+
+But I'm not there. I'm here,
+
+alone at night, sipping wine.
+
+---
+{: .newpoem }
+
+My soul's gone ahead,
+
+into those far away hills,
+
+where the moon rises.
+
+But I'm still in a basement,
+
+with only one small window.
+
+---
+
+---
+
+\*
+{: .ts2 }
+
+---
+
+---
+
+Never suspected
+
+of any beliefs at all,
+
+a friend who's just left
+
+on a brutal pilgrimage
+
+of fasting, penance, and prayer.
+
+---
+
+---
+
+\*
+{: .ts2 }
+
+---
+
+---
+
+You're on the zoom screen.
+
+Your face is like the face of
+
+an astronaut, caught
+
+outside the capsule. No one
+
+is going to let him in.
+
+---
+
+---
+
+\*
+{: .ts2 }
+
+---
+
+---
+
+When I left the world
+
+the last eggplant had ripened
+
+in its small pot on
+
+the sunny end of the porch,
+
+violet, as is deep space.
+
+---
+
+---
+
+\*
+{: .ts2 }
+
+---
+
+---
+
+On a huge window
+
+a grasshopper clings in
+
+absolute stillness,
+
+perceiving, as befits him,
+
+space, air, light, heat, and distance.
+
+---
+
+---
+
+\*
+{: .ts2 }
+
+---
+
+---
+
+Pure and blue the moon
+
+was there for a full moment
+
+in the glowing rush
+
+above the well of despair
+
+often confused with your house.
+
+---
+
+---
+
+\*
+{: .ts2 }
+
+---
+
+---
+
+Close to full the moon
+
+above the oblong of black
+
+known to be a street,
+
+a single star beside it,
+
+less lifeless than you are, now.
+
+---
+
+---
+
+\*
+{: .ts2 }
+
+---
+
+---
+
+Nothing much is done
+
+but all now seems different.
+
+Must be the fresh wind.
+
+Must be the disappearance
+
+of the last possible light.
+
+---
+
+---
+
+\*
+{: .ts2 }
+
+---
+
+---
+
+Then you spoke your mind
+
+and imperiled your income.
+
+No better off now
+
+than a beggar with a bowl,
+
+saying please, please, forgive me.
+
+---
+
+---
+
+---
+
+I would rather be
+
+on a lake, late afternoon,
+
+maybe one other
+
+cabin in sight, on the far
+
+shore, where the sun is failing.
+
+---
+
+---
+
+\*
+{: .ts2 }
+
+---
+
+---
+
+Fate put you in this
+
+body and fate will free you,
+
+so you can go back
+
+to just dreaming all the time
+
+where there's no dream and no you.
+
+---
+
+---
+
+\*
+{: .ts2 }
+
+---
+
+*Korean woman*
+{: .ts4 }
+
+---
+
+---
+
+My perfection had
+
+proved to be debilitating.
+
+I needed time off.
+
+My parents got real worried.
+
+All I did was lie in bed.
+
+---
+
+---
+
+Life was doing to
+
+my moods what Japan had done
+
+to Korea, long
+
+ago, in history, and
+
+now, secretly, in my head.
+
+---
+
+---
+
+I felt occupied
+
+and kept alive only for
+
+what others could do
+
+to me, and yes, mostly men,
+
+sent here to destroy our world.
+
+---
+
+---
+
+I am the palest
+
+Asian girl you'll ever see.
+
+In another life
+
+I was Scandinavian,
+
+But now I'm just scared, all the time.
+
+---
+
+---
+
+\*
+{: .ts2 }
+
+---
+
+---
+
+Having renounced
+
+the senses I, nonetheless,
+
+know they are still there.
+
+Sometimes, by mistake, I still
+
+see, smell, taste, touch, and hear.
+
+---
+
+---
+
+\*
+{: .ts2 }
+
+---
+
+---
+
+The doctor gave me
+
+pills but I'm afraid of them.
+
+Old people get them,
+
+those whose hearts have gone wild.
+
+Those who awake bewildered.
+
+---
+
+---
+
+\*
+{: .ts2 }
+
+---
+
+---
+
+My basement study
+
+is a grave with a window.
+
+I can look out and
+
+see the life I'm no longer
+
+concerned with understanding.
+
+---
+
+---
+
+\*
+{: .ts2 }
+
+---
+
+---
+
+Loved and more than
+
+once but never not un-
+
+happy. Who did I
+
+devastate in some former
+
+life that I'm so lonely now?
+
+---
+
+---
+
+\*
+{: .ts2 }
+
+---
+
+---
+
+This memory has
+
+no other place to go, now,
+
+but your head. All those
+
+other minds do not exist,
+
+those there when all that happened.
+
+---
+
+---
+
+\*
+{: .ts2 }
+
+---
+
+---
+
+If you don't sleep well
+
+think of the corpse of Jesus,
+
+his nights in the tomb
+
+draped in rough cloth, motionless,
+
+so tortured, but then at peace.
+
+---
+
+---
+
+.
