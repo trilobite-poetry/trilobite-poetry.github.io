@@ -3,6 +3,14 @@ title: 'from *ALL OF YOU*'
 contributor: Zack Pieper
 ---
 
+<style>
+video {
+    width: 100%;
+    height: auto;
+    object-fit: fill;
+}
+</style>
+
 <div
 style="display:flex;justify-content:center;align-items:center;">
 <!--width="368" height="640" controls-->
@@ -11,6 +19,9 @@ style="display:flex;justify-content:center;align-items:center;">
 Your browser does not support video.
 </video>
 </div>
+
+---
+{: .newpoem }
 
 ## from *All of You*
 
@@ -39,10 +50,8 @@ You are someone somewhat different to each of us. Each of you.
 You are "entertaining" this evocation. You make little quote marks with
 your fingers
 
----
-
 in the air.
-{: .ts14 }
+{: .ts25 }
 
 ---
 
@@ -126,7 +135,7 @@ You look up at the screen, seeing your own reflection, & your face says
 you are thinking, wow, the act of reflection has come
 
 quite a long way.
-{: .ts16 }
+{: .ts24 }
 
 ---
 
