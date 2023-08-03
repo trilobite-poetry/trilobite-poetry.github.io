@@ -4,17 +4,14 @@ contributor: Zack Pieper
 ---
 
 <style>
-video {
-    width: 100%;
-    height: auto;
-    object-fit: fill;
+article p {
+    max-width: 600px;
 }
 </style>
-
 <div
 style="display:flex;justify-content:center;align-items:center;">
 <!--width="368" height="640" controls-->
-<video controls>
+<video style="width:100%; height: auto; object-fit: fill;" controls>
 <source src="/assets/media/pieper-01.mp4" type="video/mp4">
 Your browser does not support video.
 </video>
