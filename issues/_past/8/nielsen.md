@@ -1,7 +1,7 @@
 ---
 title: five poems
 contributor: A.L. Nielsen
-issue: arousing Texigryphaea
+issue: arousing texigryphaea
 ---
 
 Long-listed

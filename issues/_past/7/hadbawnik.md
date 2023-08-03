@@ -1,5 +1,5 @@
 ---
-issue: heartbeat of the Rhacolepis
+issue: heartbeat of the rhacolepis
 title: Sonnets
 contributor: David Hadbawnik
 ---

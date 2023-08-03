@@ -1,5 +1,5 @@
 ---
-issue: Redlichiida summer
+issue: redlichiida summer
 title: |
   "Horatius' Bad Day"
 contributor: 'Adriána Kóbor'

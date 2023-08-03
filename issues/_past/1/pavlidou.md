@@ -1,7 +1,7 @@
 ---
 title: '"Flesh"'
 contributor: Giorgia Pavlidou
-issue: "people used to have cool names like Kimball Flaccus"
+issue: "people used to have cool names like kimball flaccus"
 ---
 
 <div class="tradwrap">

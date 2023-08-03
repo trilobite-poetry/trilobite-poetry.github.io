@@ -1,5 +1,5 @@
 ---
-issue: Redlichiida summer
+issue: redlichiida summer
 title: two poems
 contributor: Steve Orth
 ---

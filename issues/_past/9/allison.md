@@ -1,7 +1,7 @@
 ---
 title: '"Hair, Scalp, and Skin Oil"'
 contributor: Shane Allison
-issue: Redlichiida summer
+issue: redlichiida summer
 ---
 
 <div

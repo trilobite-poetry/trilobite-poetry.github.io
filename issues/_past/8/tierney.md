@@ -1,7 +1,7 @@
 ---
 title: '"field guide to future flora"'
 contributor: Orchid Tierney
-issue: arousing Texigryphaea
+issue: arousing texigryphaea
 ---
 
 <style>

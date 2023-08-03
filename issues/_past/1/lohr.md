@@ -1,7 +1,7 @@
 ---
 title: '"Available Epigraphs"'
 contributor: Jonny Lohr
-issue: "people used to have cool names like Kimball Flaccus"
+issue: "people used to have cool names like kimball flaccus"
 ---
 
 Ignore convention a while

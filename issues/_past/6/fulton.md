@@ -1,7 +1,7 @@
 ---
 title: six poems
 contributor: Nora Fulton
-issue: 'Feast of St. Fabiola'
+issue: 'feast of st. fabiola'
 ---
 
 <style>

@@ -1,7 +1,7 @@
 ---
 title: 'from *Work from Home Poems*'
 contributor: Jeremy Hoevenaar
-issue: arousing Texigryphaea
+issue: arousing texigryphaea
 ---
 
 A deceleration in the decrease

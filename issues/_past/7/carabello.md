@@ -1,7 +1,7 @@
 ---
 title: three poems
 contributor: Paige Carabello
-issue: heartbeat of the Rhacolepis
+issue: heartbeat of the rhacolepis
 ---
 
 <style>

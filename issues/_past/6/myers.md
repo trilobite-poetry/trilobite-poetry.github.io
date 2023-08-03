@@ -1,7 +1,7 @@
 ---
 title: '"Sunday Poem -- 2.6.22"'
 contributor: Gina Myers
-issue: 'Feast of St. Fabiola'
+issue: 'feast of st. fabiola'
 ---
 
 Quiet day
