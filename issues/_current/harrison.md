@@ -1,20 +1,7 @@
 ---
-title: poems
+title: ten poems
 contributor: Roberto Harrison
-custom_css: toc
 ---
-
-- [unwanted connection](#unwanted-connection)
-- [talking after patterns](#talking-after-patterns)
-- [morning harness](#morning-harness)
-- [intention designations](#intention-designations)
-- [memories of the future](#memories-of-the-future)
-- [lunch time](#lunch-time)
-- [the dog gave us couples counseling](#the-dog-gave-us-couples-counseling)
-- [the dog brings us home](#the-dog-brings-us-home)
-- [heads up to death plan erasures](#heads-up-to-death-plan-erasures)
-- [I am eager key up my carriage](#I-am-eager-key-up-my-carriage)
-{: #toc }
 
 ## unwanted connection
 
@@ -588,7 +575,7 @@ now with a shadow
 
 in the cross of my silent lecture
 
-as I recite it to the plains. they show
+as I recite it to the Plains. they show
 
 that the feathers of our accomplishments
 
@@ -689,9 +676,9 @@ and I must give them the straw
 
 for bedding as they also
 
-need to dream. everybody
+need to dream. everyone
 
-knows where this is leading. everybody
+knows where this is leading. everyone
 
 has asked which letters, exactly, describe
 
@@ -713,7 +700,7 @@ is angry at my translators
 
 because I have not turned
 
-myself in. the screen
+myself in---the screen
 
 has told me that my thoughts
 
@@ -729,9 +716,7 @@ in the weather-less night
 
 and I find less
 
-in my separate self
-
-then I used to
+in my separate self than I used to
 
 to believe in the light. I sing
 
@@ -861,7 +846,7 @@ segments, that we embrace the agriculture
 
 that we share in the perception
 
-of each other's' outlines. the news becomes
+of each other's outlines. the news becomes
 
 us again and we share that the food
 
@@ -913,7 +898,7 @@ in a foam of conception
 
 wearing away the rivers
 
-down to make it true
+to make it true
 
 as we move with the rain
 
@@ -1023,7 +1008,7 @@ me, in the night as we know it and as we see it
 
 deliver the promises for the others. each of us
 
-become and then we promise all that we know
+become and then we unwrap all that we know
 
 our own entries and exits and that we shower
 
