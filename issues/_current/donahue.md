@@ -1,6 +1,6 @@
 ---
 title: 'from *The Palace of Boundless Cold*'
-contributor: Joe Donahue
+contributor: Joseph Donahue
 ---
 
 Astonished children
