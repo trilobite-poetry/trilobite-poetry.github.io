@@ -1065,6 +1065,8 @@ in our negotiations to huddle
 
 among the ruins of the spirit
 
+---
+
 the air must protect us
 
 as we show the sky what we must
@@ -1088,6 +1090,8 @@ and make our own meal
 out of the ashes of our impossible
 
 authenticities. each animal then
+
+---
 
 can break us to show that the early
 
@@ -1119,6 +1123,8 @@ as I cry to belong again
 
 to your body
 
+---
+
 even if the earth were more round
 
 I would equate my finding otherwise
@@ -1144,6 +1150,8 @@ to each other. and each of us now
 see the trees have embraced us
 
 to wear away the darkness
+
+---
 
 in my quest to authenticate
 
@@ -1175,6 +1183,8 @@ to evolve with the storms
 
 of our confessionary to the lake
 
+---
+
 as friendship wears us away in our trembling
 
 decisions, friendship does not destroy
@@ -1182,6 +1192,8 @@ decisions, friendship does not destroy
 in each evening as we cut the morning
 
 in two
+
+---
 
 all of us must be there now
 
