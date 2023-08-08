@@ -5,7 +5,7 @@ title: Past Issues
 
 {% for item in site.past %}
 {% if item.issue != my_issue %}
-# The {{ item.issue }} issue
+# {{ item.issue }}
 {% assign my_issue = item.issue %}
 {% endif %}
 

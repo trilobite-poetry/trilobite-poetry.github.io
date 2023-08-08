@@ -26,7 +26,7 @@ sass:
 
 exclude:
   - secret/
-  - sitemap-gen.fish
+  - mapsite
   - attachments/
   - preview/
   - ctags-kinds
@@ -35,3 +35,8 @@ exclude:
   - tags
   - test.html
   - manual/
+  - todo.txt
+  - CNAME
+  - Gemfile
+  - Gemfile.lock
+  - README.md

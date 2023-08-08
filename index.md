@@ -3,7 +3,7 @@ title: Trilobite
 layout: default
 ---
 
-# Redlichiida Summer
+# Balnibarbenheimer
 
 {% for item in site.current %}
 -   [{{ item.contributor }}, {{ item.title }}]({{ item.url }})

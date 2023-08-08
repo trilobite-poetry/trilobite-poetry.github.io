@@ -1,5 +1,5 @@
 ---
-issue: heartbeat of the Rhacolepis
+issue: heartbeat of the rhacolepis
 title: four poems
 contributor: Emily Hall
 ---

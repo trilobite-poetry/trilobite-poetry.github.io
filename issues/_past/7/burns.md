@@ -1,7 +1,7 @@
 ---
 title: 'from *antagonisms in the aether*'
 contributor: Avery Burns
-issue: heartbeat of the Rhacolepis
+issue: heartbeat of the rhacolepis
 ---
 
 interact
