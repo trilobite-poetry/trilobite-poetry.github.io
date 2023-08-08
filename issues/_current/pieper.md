@@ -21,7 +21,7 @@ Your browser does not support video.
 ---
 {: .newpoem }
 
-## from *All of You*
+## from *ALL OF YOU*
 
 You, you, & you. But specifically you. I am calling to you, your name, a
 pop song chorus.
@@ -66,7 +66,8 @@ The exact same goes for you. You are exact.
 
 ---
 
-Now you. You could pretend this was your own voice over your reflection.
+Now you. You could pretend this was your own voice over all of
+our reflections.
 
 ---
 
@@ -82,7 +83,7 @@ solemnly. You were previously hanging ornaments on a tree.
 You always appeared on that same corner. Asked for 2 cigs. Wore a little
 sash.
 
-One day you vanished. Whoever you are to yourself, you are this person
+One day you vanished. Whoever you were to yourself, you are this person
 now.
 
 You are not a need, but a need is how you appear.

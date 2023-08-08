@@ -1,6 +1,6 @@
 ---
 issue: Balnibarbenheimer
-title: ten poems
+title: 'from *Posthuman Native*'
 contributor: Roberto Harrison
 ---
 
@@ -1182,8 +1182,6 @@ again, as we know it
 to evolve with the storms
 
 of our confessionary to the lake
-
----
 
 as friendship wears us away in our trembling
 
