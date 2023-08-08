@@ -1,0 +1,11 @@
+#!/bin/bash
+
+rm sitemap.txt
+#bundle exec jekyll build
+
+for file in `find ./_site -name "*.html"`
+do
+    echo $file | sed '/404/d; s/\.\/_site/https:\/\/trilobite.bond/' >> sitemap.txt
+done
+
+# vim:ft=sh
