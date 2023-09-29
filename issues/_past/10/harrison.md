@@ -1,5 +1,5 @@
 ---
-issue: Balnibarbenheimer
+issue: balnibarbenheimer
 title: 'from *Posthuman Native*'
 contributor: Roberto Harrison
 ---

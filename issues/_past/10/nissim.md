@@ -1,5 +1,5 @@
 ---
-issue: Balnibarbenheimer
+issue: balnibarbenheimer
 title: three poems
 contributor: Jesse Nissim
 ---

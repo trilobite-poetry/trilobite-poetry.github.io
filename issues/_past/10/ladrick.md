@@ -1,5 +1,5 @@
 ---
-issue: Balnibarbenheimer
+issue: balnibarbenheimer
 title: 'from *Isotope*'
 contributor: Alice Ladrick
 ---

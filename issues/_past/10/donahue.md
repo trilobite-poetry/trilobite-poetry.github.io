@@ -1,5 +1,5 @@
 ---
-issue: Balnibarbenheimer
+issue: balnibarbenheimer
 title: 'from *The Palace of Boundless Cold*'
 contributor: Joseph Donahue
 ---

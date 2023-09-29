@@ -1,5 +1,5 @@
 ---
-issue: Balnibarbenheimer
+issue: balnibarbenheimer
 title: five poems
 contributor: 'Brenda Cárdenas'
 ---

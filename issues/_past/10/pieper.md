@@ -1,5 +1,5 @@
 ---
-issue: Balnibarbenheimer
+issue: balnibarbenheimer
 title: 'from *ALL OF YOU*'
 contributor: Zack Pieper
 ---

@@ -3,7 +3,7 @@ title: Trilobite
 layout: default
 ---
 
-# Balnibarbenheimer
+# the brachiopods are coming to dinner
 
 {% for item in site.current %}
 -   [{{ item.contributor }}, {{ item.title }}]({{ item.url }})
