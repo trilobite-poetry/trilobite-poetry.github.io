@@ -1,7 +1,7 @@
 ---
 issue: the brachiopods are coming to dinner
 contributor: Stephanie Barber
-title: A LIST OF TWELVE WAYS WE PROBABLE ASSISTANCES, INTERFERENCES AND AGGRESSORS
+title: A LIST OF TWELVE PROBABLE ASSISTANCES, INTERFERENCES AND AGGRESSORS
 ---
 
 One is the expectation that life will be a certain way, that sounds and
