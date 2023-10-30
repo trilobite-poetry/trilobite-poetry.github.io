@@ -3,7 +3,7 @@ title: Trilobite
 layout: default
 ---
 
-# the brachiopods are coming to dinner
+# Flicker into this pumpkin on wet Halloween, Jack
 
 {% for item in site.current %}
 -   [{{ item.contributor }}, {{ item.title }}]({{ item.url }})
