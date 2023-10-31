@@ -1,11 +1,11 @@
 ---
-title: '"GRASS OF PARNASSUS"'
+title: '"Grass of Parnassus"'
 contributor: Chuck Stebelton
 ---
 
 ## Two Rivers to Ridges to Peninsula, 9/14 - 9/16/2023
 
-Nicholas Gulig: "an amature looking into the lives and and eyes of
+Nicholas Gulig: "an amateur looking into the lives and and eyes of
 pollinators"
 {: .doublespace }
 
