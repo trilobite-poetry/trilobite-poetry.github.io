@@ -2,6 +2,7 @@
 title: seven poems
 contributor: Ryan Gato
 num: 13
+issue: year of the drotops
 ---
 
 ## Cognitive Pole Barn

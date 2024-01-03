@@ -3,7 +3,7 @@ title: Trilobite
 layout: default
 ---
 
-# \[TBA\]
+# Year of the Drotops
 
 {% assign poems = site.issues | where:"num","13" %}
 {% for item in poems %}

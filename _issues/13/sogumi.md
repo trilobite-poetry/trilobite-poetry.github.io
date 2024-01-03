@@ -1,4 +1,5 @@
 ---
+issue: year of the drotops
 title: three poems
 num: 13
 contributor: Oki Sogumi

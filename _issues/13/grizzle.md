@@ -1,4 +1,5 @@
 ---
+issue: year of the drotops
 num: 13
 title: seven poems
 contributor: Annie Grizzle
