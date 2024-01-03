@@ -1,20 +1,12 @@
 collections:
-  current:
-    output: true
-  past:
+  issues:
     output: true
     sort_by: issue
-collections_dir: issues
 
 defaults:
   - scope:
       path: ""
-      type: "past"
-    values:
-      layout: "poem"
-  - scope:
-      path: ""
-      type: "current"
+      type: "issues"
     values:
       layout: "poem"
   - scope:
