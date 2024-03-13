@@ -3,7 +3,7 @@ layout: default
 title: Past Issues
 ---
 
-{% assign poems = site.issues | where_exp:"item", "item.num < 13" %}
+{% assign poems = site.issues | where_exp:"item", "item.num < 14" %}
 {% for item in poems %}
 {% if item.issue != my_issue %}
 # {{ item.issue }}

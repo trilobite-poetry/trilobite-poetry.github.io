@@ -3,9 +3,9 @@ title: Trilobite
 layout: default
 ---
 
-# Year of the Drotops
+# Trilobites and Panspermia: Exploring the Cosmic Origins of Ancient Life
 
-{% assign poems = site.issues | where:"num","13" %}
+{% assign poems = site.issues | where:"num","14" %}
 {% for item in poems %}
 -   [{{ item.contributor }}, {{ item.title }}]({{ item.url }})
 
