@@ -7,24 +7,6 @@ num: 14
 October 2020–February 2021
 {: .forenote }
 
-With faint white clouds   
-is the blue sky slashed.   
-Bits of old flyers   
-still stick to light poles.   
-On stoops unrotten pumpkins sit   
-and red and green   
-paper coffee cups   
-already crowd the grates. The air   
-is sharp and sweet and musty with   
-the mush of leaves, the last to be   
-blown out of trees by night wind   
-to reveal the city's   
-perennial fruit   
-eternal and out of reach.   
-
----
-{: .newpoem }
-
 A sycamore's yellow   
 leaves hang over   
 the oddball's shrine of broken toys.   
@@ -41,7 +23,10 @@ under a funeral parlor's
 gothic-lettered sign.   
 
 ---
-{: .newpoem }
+
+\*
+
+---
 
 Now and then along the street   
 the sharp crack of an acorn   
@@ -59,7 +44,10 @@ From the exit door's wire glass
 eyes peer out at nothing much.   
 
 ---
-{: .newpoem }
+
+\*
+
+---
 
 An immense crane rests   
 folded in half   
@@ -74,7 +62,10 @@ Spent scratchies
 tumble among leaves.   
 
 ---
-{: .newpoem }
+
+\*
+
+---
 
 A draft disturbs some tinsel hung   
 in the window of the hardware store.   
@@ -89,7 +80,10 @@ scrawled in sharpie shake
 as the wind rises and dies down.   
 
 ---
-{: .newpoem }
+
+\*
+
+---
 
 A gray door shuts. In shade   
 the street darkens. The words   
@@ -104,7 +98,10 @@ like hesperus,
 a crane's red warning light.   
 
 ---
-{: .newpoem }
+
+\*
+
+---
 
 Green the flattened   
 pack of Newports,   
@@ -122,7 +119,10 @@ as a paper bag
 wet with blue paint.   
 
 ---
-{: .newpoem }
+
+\*
+
+---
 
 Fog hides the crane's tip   
 its red light slowly breathing.   
@@ -140,7 +140,10 @@ LED marquee silently scrolls.
 It says, "Ciggerettes."   
 
 ---
-{: .newpoem }
+
+\*
+
+---
 
 Through bus windows   
 faces preemptively empty themselves.   
@@ -153,7 +156,10 @@ black in streetlamp light,
 "We buy houses. We pay cash."   
 
 ---
-{: .newpoem }
+
+\*
+
+---
 
 Autumn's evening   
 air is shatterproof.   
