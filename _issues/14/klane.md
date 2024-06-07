@@ -2,6 +2,7 @@
 title: three poems
 contributor: Matthew Klane
 num: 14
+issue: 'trilobites and panspermia: exploring the cosmic origins of ancient life'
 ---
 
 ## An Epiphany

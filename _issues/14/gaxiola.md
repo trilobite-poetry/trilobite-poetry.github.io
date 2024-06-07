@@ -2,6 +2,7 @@
 title: "from *FILMROADS*"
 contributor: Lucía Hinojosa Gaxiola
 num: 14
+issue: 'trilobites and panspermia: exploring the cosmic origins of ancient life'
 ---
 
 

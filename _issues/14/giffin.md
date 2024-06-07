@@ -2,6 +2,7 @@
 title: '"Bait Stations"'
 contributor: Lawrence Giffin
 num: 14
+issue: 'trilobites and panspermia: exploring the cosmic origins of ancient life'
 ---
 
 October 2020–February 2021

@@ -2,6 +2,7 @@
 title: six poems
 contributor: Marcella Durand
 num: 14
+issue: 'trilobites and panspermia: exploring the cosmic origins of ancient life'
 ---
 
 <style>

@@ -2,6 +2,7 @@
 title: 'five Robert poems and "Urgent, star"'
 contributor: 'S. Yarberry'
 num: 14
+issue: 'trilobites and panspermia: exploring the cosmic origins of ancient life'
 ---
 
 <style>

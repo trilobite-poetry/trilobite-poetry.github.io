@@ -2,6 +2,7 @@
 title: three poems
 contributor: Ed Steck
 num: 14
+issue: 'trilobites and panspermia: exploring the cosmic origins of ancient life'
 ---
 
 <style>
