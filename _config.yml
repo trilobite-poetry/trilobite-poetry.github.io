@@ -1,3 +1,6 @@
+url: 'https://trilobite.bond'
+title: trilobite
+
 collections:
   issues:
     output: true
