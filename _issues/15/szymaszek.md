@@ -2,6 +2,7 @@
 title: Essays 11--14
 contributor: Stacy Szymaszek
 num: 15
+issue: Our Immutability
 ---
 
 ## ESSAY 11

@@ -3,9 +3,9 @@ title: Trilobite
 layout: default
 ---
 
-# Our Immutability
+# Choice Paradoxides
 
-{% assign poems = site.issues | where:"num","15" %}
+{% assign poems = site.issues | where:"num","16" %}
 {% for item in poems %}
 -   [{{ item.contributor }}, {{ item.title }}]({{ item.url }})
 

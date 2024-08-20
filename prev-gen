@@ -1,6 +1,6 @@
 #!/bin/bash
 
-bundle exec jekyll build
+jekyll build
 
 cp -r _site/* preview/
 

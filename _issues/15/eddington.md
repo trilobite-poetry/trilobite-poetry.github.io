@@ -2,6 +2,7 @@
 title: 'from *the fold*'
 contributor: Cass Eddington
 num: 15
+issue: Our Immutability
 ---
 
 ## self-scrying

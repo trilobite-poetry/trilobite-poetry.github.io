@@ -1,7 +1,8 @@
 ---
-title: Instructions
+title: '"Instructions"'
 contributor: Kerri Sonnenberg
 num: 15
+issue: Our Immutability
 ---
 
 cycle to the empty stadium
