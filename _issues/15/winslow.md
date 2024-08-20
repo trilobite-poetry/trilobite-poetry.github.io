@@ -2,7 +2,7 @@
 title: four poems
 contributor: Aaron Winslow
 num: 15
-issue: Our Immutability
+issue: our immutability
 ---
 
 ## Pineapple Man

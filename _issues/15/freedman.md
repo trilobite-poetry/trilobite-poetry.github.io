@@ -2,7 +2,7 @@
 title: two poems
 contributor: Lewis Freedman
 num: 15
-issue: Our Immutability
+issue: our immutability
 ---
 
 <style>

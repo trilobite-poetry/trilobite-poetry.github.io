@@ -2,7 +2,7 @@
 title: '"Instructions"'
 contributor: Kerri Sonnenberg
 num: 15
-issue: Our Immutability
+issue: our immutability
 ---
 
 cycle to the empty stadium

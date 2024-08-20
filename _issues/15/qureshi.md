@@ -2,7 +2,7 @@
 title: eight poems
 contributor: Corey Qureshi
 num: 15
-issue: Our Immutability
+issue: our immutability
 ---
 
 ## Call from a strange number
