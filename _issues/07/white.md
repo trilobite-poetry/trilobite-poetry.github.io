@@ -49,8 +49,7 @@ Has anyone ever tried Fortified Premium E-Liquid E-Liquid?
 
 
 
----
-{: .newpoem}
+## FM
 
 
 
@@ -355,8 +354,7 @@ COUNTRY BRIGADE -- LIVE ON SUNDAY EVENING [SUNDAY EVENING-EVENT STARTING AT 8PM]
 
 
 
----
-{: .newpoem}
+## Stein Balls (Cento)
 
 
 
