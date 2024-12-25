@@ -1,4 +1,5 @@
 ---
+issue: choice paradoxides
 title: two poems
 contributor: Tyhe Cooper
 num: 16

@@ -1,4 +1,5 @@
 ---
+issue: choice paradoxides
 title: three poems
 contributor: Norma Cole
 num: 16

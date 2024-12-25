@@ -1,4 +1,5 @@
 ---
+issue: choice paradoxides
 title: four poems
 contributor: Ayaz Muratoglu
 num: 16
