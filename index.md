@@ -3,9 +3,9 @@ title: Trilobite
 layout: default
 ---
 
-# Happy Hollardops
+# Title TBD
 
-{% assign poems = site.issues | where:"num","17" %}
+{% assign poems = site.issues | where:"num","18" %}
 {% for item in poems %}
 -   [{{ item.contributor }}, {{ item.title }}]({{ item.url }})
 
