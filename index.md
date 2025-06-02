@@ -3,7 +3,7 @@ title: Trilobite
 layout: default
 ---
 
-# Title TBD
+# The Cambrian Turn
 
 {% assign poems = site.issues | where:"num","18" %}
 {% for item in poems %}
