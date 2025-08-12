@@ -1,4 +1,5 @@
 ---
+issue: the cambrian turn
 title: 'playlist poem - scorpio(n)'
 contributor: Dana Venerable
 num: 18
