@@ -5,7 +5,7 @@ layout: default
 
 # The Cambrian Turn
 
-{% assign poems = site.issues | where:"num","18" %}
+{% assign poems = site.issues | where:"num","19" %}
 {% for item in poems %}
 -   [{{ item.contributor }}, {{ item.title }}]({{ item.url }})
 
