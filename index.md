@@ -3,7 +3,7 @@ title: Trilobite
 layout: default
 ---
 
-# The Cambrian Turn
+# Odette Does Not Exist
 
 {% assign poems = site.issues | where:"num","19" %}
 {% for item in poems %}
