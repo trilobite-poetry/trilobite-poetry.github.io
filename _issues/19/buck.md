@@ -527,62 +527,6 @@ want to take a picture
 
 of me?" and then I did.
 
-## Do You Know This About Me?
-
-I text you all the time.
-
-I'm going to go back and look at receipts.
-
-It's not that I don't text you.
-
----
-
-I mean I don't really text anyone.
-
-Do you ever
-
-use SnapChat updates?
-
----
-
-I saw the X-Ray, I saw how crazy my teeth were.
-
-I am the kind of person who, until they were twenty-one
-
-would run away from needles.
-
----
-
-It's too dark in here. I'd like a transcript of
-
-someone talking; I'd like to send a
-
-note about safety.
-
----
-
-But now I'm thriving.
-
-Now I have a lot of names
-
-I was screaming.
-
----
-
-But now I'm thriving.
-
-You could bring it up to him.
-
-You could bring it up again.
-
----
-
-And just say that you don't text
-
-a lot really. Like you're not a
-
-texter.
-
 ## Licking
 
 We were trying to con people at the Cheesecake Factory into thinking we
@@ -654,26 +598,6 @@ If the quality of the chicken was bad, I never would have known.
 ---
 
 It was an eggplant parm.
-
-## Fur
-
-There's the U and then the wipes start to get trapped in the U.
-
-And more and more of them build up and then there's nothing you can do
-
-to get them out.
-
-It's full.
-
-The city can't do anything.
-
----
-
-He was spending money.
-
-He was saying he was interested.
-
-Some people, you don't know what they have.
 
 ## I Wanted to Give a Gift But It Was Like a Sort of Coffin
 
