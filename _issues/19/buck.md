@@ -44,7 +44,7 @@ you've barely gotten out of
 
 ---
 
-like, say, rural isolation,
+like, say, rural isolation;
 
 proximity to loved ones'
 
