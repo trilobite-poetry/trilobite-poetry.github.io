@@ -1,5 +1,5 @@
 ---
-title: poems in English
+title: blister packs of yolks
 contributor: Ekaterina Derysheva
 num: 19
 ---
@@ -20,7 +20,7 @@ hovering
 being stretched
 {: .ts8 }
 
-<hr style="margin: 2rem 0;" />
+<hr style="margin: 1rem 0;" />
 
 on tent poles
 
