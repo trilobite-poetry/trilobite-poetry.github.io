@@ -175,8 +175,8 @@ teeth don't get to choose
 Notably, the swans
 {: .hyperspace }
 
----
-{: .hyperspace }
+<hr style="margin: 1rem 0;" />
+
 
 And after them, set high upon the ridge
 {: .hyperspace }
@@ -187,9 +187,7 @@ looking down on the lake where the swans
 are, the town
 {: .hyperspace }
 
----
-{: .hyperspace }
-
+<hr style="margin: 1rem 0;" />
 
 So many of them and every day, the swans,
 {: .hyperspace }
@@ -200,14 +198,12 @@ and really no other birds on the water
 except for them, they are lonely there
 {: .hyperspace }
 
----
-{: .hyperspace }
+<hr style="margin: 1rem 0;" />
 
 There are always more
 {: .hyperspace }
 
----
-{: .hyperspace }
+<hr style="margin: 1rem 0;" />
 
 Still days they turn about the surface and
 {: .hyperspace }
@@ -228,8 +224,7 @@ sky
 {: .hyperspace }
 
 
----
-{: .hyperspace }
+<hr style="margin: 1rem 0;" />
 
 Not a valley just a declivity or dip in the
 {: .hyperspace }
@@ -259,8 +254,7 @@ that departure
 {: .hyperspace }
 
 
----
-{: .hyperspace }
+<hr style="margin: 1rem 0;" />
 
 Nothing about the town matters save that it
 {: .hyperspace }
@@ -296,8 +290,8 @@ often than it wasn't, so that the swans could
 be sat upon high-polish, undisturbed
 {: .hyperspace }
 
----
-{: .hyperspace }
+<hr style="margin: 1rem 0;" />
+
 
 The importance of the town is that the
 {: .hyperspace }
@@ -308,8 +302,8 @@ town's people consent, accept this, and
 they do
 {: .hyperspace }
 
----
-{: .hyperspace }
+<hr style="margin: 1rem 0;" />
+
 
 Such that when a swan appears in the town,
 {: .hyperspace }
@@ -326,8 +320,8 @@ thoroughly and as though by acclaim or
 popular agreement
 {: .hyperspace }
 
----
-{: .hyperspace }
+<hr style="margin: 1rem 0;" />
+
 
 On occasion one will enter someone's home,
 {: .hyperspace }
@@ -338,14 +332,14 @@ this is also permitted, the dog won't even
 bark
 {: .hyperspace }
 
----
-{: .hyperspace }
+<hr style="margin: 1rem 0;" />
+
 
 The situation
 {: .hyperspace }
 
----
-{: .hyperspace }
+<hr style="margin: 1rem 0;" />
+
 
 Until the lake turns over and the swans, the
 {: .hyperspace }
