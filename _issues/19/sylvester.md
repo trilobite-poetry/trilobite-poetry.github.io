@@ -13,6 +13,9 @@ turtle examining foliage" />
 ---
 {: .newpoem }
 
+*
+{: .hyperspace }
+
 April 11, 2025 at 10:21PM---and after
 {: .hyperspace }
 
@@ -120,6 +123,9 @@ what are we doing
 ---
 {: .newpoem }
 
+*
+{: .hyperspace }
+
 WILL I NEVER SEE
 {: .hyperspace }
 
@@ -158,6 +164,9 @@ happy birthday Tobin
 ---
 {: .newpoem }
 
+*
+{: .hyperspace }
+
 he doesn't want his tooth to have any more
 {: .hyperspace }
 
@@ -171,6 +180,9 @@ teeth don't get to choose
 
 ---
 {: .newpoem }
+
+*
+{: .hyperspace }
 
 Notably, the swans
 {: .hyperspace }
@@ -349,6 +361,9 @@ town is gone
 ---
 {: .newpoem }
 
+*
+{: .hyperspace }
+
 small and predatory bird
 {: .hyperspace }
 
@@ -381,6 +396,9 @@ Policing. Horror.
 ---
 {: .newpoem }
 
+*
+{: .hyperspace }
+
 S
 {: .hyperspace }
 
@@ -400,6 +418,9 @@ impatience (He's Sorry)
 
 ---
 {: .newpoem }
+
+*
+{: .hyperspace }
 
 a champaign tract inclosed by hills
 {: .hyperspace }
@@ -432,6 +453,9 @@ and toothless
 
 ---
 {: .newpoem }
+
+*
+{: .hyperspace }
 
 Brickyard to Byard
 {: .hyperspace }
