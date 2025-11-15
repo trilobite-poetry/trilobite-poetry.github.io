@@ -3,9 +3,9 @@ title: Trilobite
 layout: default
 ---
 
-# Odette Does Not Exist
+# there's always a cephalon
 
-{% assign poems = site.issues | where:"num","19" %}
+{% assign poems = site.issues | where:"num","20" %}
 {% for item in poems %}
 -   [{{ item.contributor }}, {{ item.title }}]({{ item.url }})
 
